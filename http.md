@@ -1,4 +1,5 @@
 ## HTTP
+知识来源：https://www.byhy.net/auto/apitest/01/#message-body
 
 ### 一、简述
 * 全称：Hypertext Transfer Protocol (文本传输协议)
