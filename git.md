@@ -60,7 +60,7 @@ git rebase <target_branch_name>
 git cherry-pick <commit_id>
 ```
 
-##### IDEA中文件颜色说明
+##### 附：IDEA中文件颜色说明(Windows,还不准确)
  - 屎黄色：.gitignore
  - 白色：无修改
  - 红色：未添加到暂存区的文件
