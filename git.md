@@ -42,6 +42,7 @@ git branch # 查看分支
 git branch <branch_name> # 创建分支
 git branch -d <branch_name> # 删除分支
 git branch -D <branch_name> # 强制删除分支
+git switch <branch_name> # 切换分支
 git checkout <branch_name> # 切换分支
 ```
 ##### 9.合并分支
@@ -52,7 +53,7 @@ git merge <branch_name>
 ```bash
 git diff
 ```
-##### 11.变基
+##### 11.变基（尽量不用）
 ```bash
 git rebase <target_branch_name>
 ```
