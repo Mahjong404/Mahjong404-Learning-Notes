@@ -63,7 +63,7 @@ git cherry-pick <commit_id>
 ```
 
 ##### 附：IDEA中文件颜色说明(Windows,还不准确)
- - 屎黄色：`.gitignore
+ - 屎黄色：.gitignore
  - 白色：无修改
  - 红色：未添加到暂存区的文件
  - 绿色：已添加到暂存区的新文件
