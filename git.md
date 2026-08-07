@@ -2,41 +2,41 @@
 ### 本地
 #### 工作区与暂存区
 ##### 1.初始化仓库
-```bash
+```git-shell
 git init
 ```
 ##### 2.查看项目状态
-```bash
+```git-shell
 git status
 ```
 ##### 3.添加文件到暂存区
-```bash
+```git-shell
 git add <filename> # 添加特定文件到暂存区
 git add . # 添加所有文件到暂存区
 ```
 
 #### 本地仓库
 ##### 4.提交暂存区文件到本地仓库
-```bash
+```git-shell
 git commit -m "commit message"
 git commit -a -m "commit message"
 ```
 ##### 5.查看提交记录
-```bash
+```git-shell
 git log --all --graph --oneline
 ```
 ##### 6.回滚
-```bash
+```git-shell
 git reset --hard <commit_id>
 ```
 ##### 7.查看所有操作记录
-```bash
+```git-shell
 git reflog
 ```
 
 #### 基础分支操作
 ##### 8.查看/创建/删除/切换分支
-```bash
+```git-shell
 git branch # 查看分支
 git branch <branch_name> # 创建分支
 git branch -d <branch_name> # 删除分支
@@ -45,19 +45,19 @@ git switch <branch_name> # 切换分支
 git checkout <branch_name> # 切换分支
 ```
 ##### 9.合并分支
-```bash
+```git-shell
 git merge <branch_name>
 ```
 ##### 10.查看差异
-```bash
+```git-shell
 git diff
 ```
 ##### 11.变基（尽量不用）
-```bash
+```git-shell
 git rebase <target_branch_name>
 ```
 ##### 12.优选
-```bash
+```git-shell
 git cherry-pick <commit_id>
 ```
 
@@ -70,13 +70,13 @@ git cherry-pick <commit_id>
 
 ### 远程
 ##### 13.添加/查看/删除远程仓库
-```bash
+```git-shell
 git remote add <remote_name> <remote_url>
 git remote -v
 git remote remove <remote_name>
 ```
 ##### 14.推送本地分支到远程仓库
-```bash
+```git-shell
 git push origin <remote_branch_name> <local_branch_name>
 #推送本地分支到远程仓库
 #例如 git push origin main main
@@ -86,12 +86,12 @@ git push --set-upstream origin <remote_branch_name>:<local_branch_name>
 git push origin
 ```
 ##### 15.克隆远程仓库到本地
-```bash
+```git-shell
 git clone <remote_url>
 #克隆远程仓库到本地
 ```
 ##### 16.抓取/合并/拉取远程仓库
-```bash
+```git-shell
 git fetch origin #抓取：只获取但不合并远端分支，后面需要我们手动合并才能提交
 git merge origin/<branch_name> #合并远端分支到本地
 
@@ -99,7 +99,7 @@ git pull origin #拉取：获取+合并
 ```
 
 ### 附：文件管理常用命令
-```bash
+```git-shell
 cls/clear #清空屏幕
 ls -al #ls为查看文件，-a为显示所有文件，-l为显示详细信息
 ls ../.. #查看上上级目录
