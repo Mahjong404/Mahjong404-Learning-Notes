@@ -7,14 +7,12 @@
       "id": "fld_mtdaeb0m_35pymep",
       "name": "标题",
       "type": "text",
-      "required": false,
       "width": 240
     },
     {
       "id": "fld_mtdaeb0m_oc4vb3h",
       "name": "状态",
       "type": "singleSelect",
-      "required": false,
       "width": 140,
       "options": [
         {
@@ -38,7 +36,6 @@
       "id": "fld_mtdaeb0m_1qe7uss",
       "name": "完成",
       "type": "checkbox",
-      "required": false,
       "width": 96
     }
   ],
@@ -47,6 +44,7 @@
     {
       "id": "view_mtdaeb0m_ycnqdlg",
       "name": "表格",
+      "type": "grid",
       "fieldOrder": [
         "fld_mtdaeb0m_35pymep",
         "fld_mtdaeb0m_oc4vb3h",
@@ -58,7 +56,6 @@
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
-      "type": "grid",
       "rowHeight": "default",
       "rowHeights": {},
       "frozenFieldCount": 1,
@@ -71,6 +68,7 @@
     {
       "id": "view_mtdaeb0n_7g002ur",
       "name": "看板",
+      "type": "kanban",
       "fieldOrder": [
         "fld_mtdaeb0m_35pymep",
         "fld_mtdaeb0m_oc4vb3h",
@@ -82,7 +80,6 @@
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
-      "type": "kanban",
       "groupFieldId": "fld_mtdaeb0m_oc4vb3h",
       "titleFieldId": "fld_mtdaeb0m_35pymep",
       "cardFieldIds": [
@@ -93,6 +90,7 @@
     {
       "id": "view_mtdaeb0n_vs0kv7f",
       "name": "画廊",
+      "type": "gallery",
       "fieldOrder": [
         "fld_mtdaeb0m_35pymep",
         "fld_mtdaeb0m_oc4vb3h",
@@ -104,7 +102,6 @@
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
-      "type": "gallery",
       "coverFieldId": null,
       "titleFieldId": "fld_mtdaeb0m_35pymep",
       "cardFieldIds": [
@@ -118,6 +115,7 @@
     {
       "id": "view_mtdaeb0n_7vp1gyh",
       "name": "日历",
+      "type": "calendar",
       "fieldOrder": [
         "fld_mtdaeb0m_35pymep",
         "fld_mtdaeb0m_oc4vb3h",
@@ -129,7 +127,6 @@
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
-      "type": "calendar",
       "dateFieldId": null,
       "titleFieldId": "fld_mtdaeb0m_35pymep",
       "cardFieldIds": [
@@ -141,6 +138,7 @@
     {
       "id": "view_mtdaeb0n_oxkch7w",
       "name": "时间线",
+      "type": "timeline",
       "fieldOrder": [
         "fld_mtdaeb0m_35pymep",
         "fld_mtdaeb0m_oc4vb3h",
@@ -152,7 +150,6 @@
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
-      "type": "timeline",
       "startFieldId": null,
       "endFieldId": null,
       "titleFieldId": "fld_mtdaeb0m_35pymep",
@@ -163,7 +160,6 @@
       "month": "2026-08"
     }
   ],
-  "activeViewId": "view_mtdaeb0m_ycnqdlg",
   "meta": {
     "createdAt": "2026-08-28T18:30:21.765Z",
     "updatedAt": "2026-08-28T18:30:21.765Z"
