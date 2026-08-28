@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "tbl_mtdaeb0m_fk47jt5",
+  "name": "未命名多维表格",
+  "fields": [
+    {
+      "id": "fld_mtdaeb0m_35pymep",
+      "name": "标题",
+      "type": "text",
+      "width": 240
+    },
+    {
+      "id": "fld_mtdaeb0m_oc4vb3h",
+      "name": "状态",
+      "type": "singleSelect",
+      "width": 140,
+      "options": [
+        {
+          "id": "opt_mtdaeb0m_4ji8bmv",
+          "name": "待处理",
+          "color": "var(--color-orange)"
+        },
+        {
+          "id": "opt_mtdaeb0m_4p393jy",
+          "name": "进行中",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_mtdaeb0m_f8fbc1k",
+          "name": "已完成",
+          "color": "var(--color-green)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mtdaeb0m_1qe7uss",
+      "name": "完成",
+      "type": "checkbox",
+      "width": 96
+    }
+  ],
+  "records": [],
+  "views": [
+    {
+      "id": "view_mtdaeb0m_ycnqdlg",
+      "name": "表格",
+      "type": "grid",
+      "fieldOrder": [
+        "fld_mtdaeb0m_35pymep",
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "rowHeight": "default",
+      "rowHeights": {},
+      "frozenFieldCount": 1,
+      "groupFieldId": null,
+      "groupBy": [],
+      "collapsedGroups": [],
+      "wrapText": false,
+      "columnSummaries": {}
+    },
+    {
+      "id": "view_mtdaeb0n_7g002ur",
+      "name": "看板",
+      "type": "kanban",
+      "fieldOrder": [
+        "fld_mtdaeb0m_35pymep",
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "groupFieldId": "fld_mtdaeb0m_oc4vb3h",
+      "titleFieldId": "fld_mtdaeb0m_35pymep",
+      "cardFieldIds": [
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ]
+    },
+    {
+      "id": "view_mtdaeb0n_vs0kv7f",
+      "name": "画廊",
+      "type": "gallery",
+      "fieldOrder": [
+        "fld_mtdaeb0m_35pymep",
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "coverFieldId": null,
+      "titleFieldId": "fld_mtdaeb0m_35pymep",
+      "cardFieldIds": [
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "layoutPreset": "4x4",
+      "coverFit": "smart",
+      "cardClickAction": "select"
+    },
+    {
+      "id": "view_mtdaeb0n_7vp1gyh",
+      "name": "日历",
+      "type": "calendar",
+      "fieldOrder": [
+        "fld_mtdaeb0m_35pymep",
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "dateFieldId": null,
+      "titleFieldId": "fld_mtdaeb0m_35pymep",
+      "cardFieldIds": [
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "month": "2026-08"
+    },
+    {
+      "id": "view_mtdaeb0n_oxkch7w",
+      "name": "时间线",
+      "type": "timeline",
+      "fieldOrder": [
+        "fld_mtdaeb0m_35pymep",
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "startFieldId": null,
+      "endFieldId": null,
+      "titleFieldId": "fld_mtdaeb0m_35pymep",
+      "cardFieldIds": [
+        "fld_mtdaeb0m_oc4vb3h",
+        "fld_mtdaeb0m_1qe7uss"
+      ],
+      "month": "2026-08"
+    }
+  ],
+  "meta": {
+    "createdAt": "2026-08-28T18:30:21.765Z",
+    "updatedAt": "2026-08-28T18:30:21.765Z"
+  }
+}
