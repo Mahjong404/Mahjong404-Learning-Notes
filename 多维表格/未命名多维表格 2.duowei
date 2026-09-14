@@ -1,67 +1,56 @@
 {
   "schemaVersion": 1,
-  "id": "tbl_mu18c0oy_j3ewm0v",
+  "id": "tbl_mu1tpfig_v0rxm7d",
   "name": "未命名多维表格",
   "fields": [
     {
-      "id": "fld_mu18c0oy_za60rz4",
+      "id": "fld_mu1tpfig_wqdh479",
       "name": "标题",
       "type": "text",
       "required": false,
       "width": 240
     },
     {
-      "id": "fld_mu18c0oy_n9itrmk",
+      "id": "fld_mu1tpfig_w9j4e2p",
       "name": "状态",
       "type": "singleSelect",
       "required": false,
       "width": 140,
       "options": [
         {
-          "id": "opt_mu18c0oy_x7ifgci",
+          "id": "opt_mu1tpfig_iuysdg2",
           "name": "待处理",
           "color": "var(--color-orange)"
         },
         {
-          "id": "opt_mu18c0oy_2jd9fdh",
+          "id": "opt_mu1tpfig_s2mtln0",
           "name": "进行中",
           "color": "var(--color-blue)"
         },
         {
-          "id": "opt_mu18c0oy_5fh9b20",
+          "id": "opt_mu1tpfig_c2o8e1f",
           "name": "已完成",
           "color": "var(--color-green)"
         }
       ]
     },
     {
-      "id": "fld_mu18c0oy_dgnsbqm",
+      "id": "fld_mu1tpfig_tr01kbg",
       "name": "完成",
       "type": "checkbox",
       "required": false,
       "width": 96
     }
   ],
-  "records": [
-    {
-      "id": "rec_mu1kn8lr_qm84wan",
-      "syncUid": "sync_mu1kn8lr_x2orce5",
-      "values": {
-        "fld_mu18c0oy_dgnsbqm": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-14T18:23:42.927Z"
-    }
-  ],
+  "records": [],
   "views": [
     {
-      "id": "view_mu18c0oy_rt1e2ij",
+      "id": "view_mu1tpfig_tgjqmfy",
       "name": "表格",
       "fieldOrder": [
-        "fld_mu18c0oy_za60rz4",
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_wqdh479",
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -80,12 +69,12 @@
       "columnSummaries": {}
     },
     {
-      "id": "view_mu18c0oz_uza35ru",
+      "id": "view_mu1tpfig_n62zqgq",
       "name": "看板",
       "fieldOrder": [
-        "fld_mu18c0oy_za60rz4",
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_wqdh479",
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -94,20 +83,20 @@
       "colorRules": [],
       "collapsedDetailGroups": [],
       "type": "kanban",
-      "groupFieldId": "fld_mu18c0oy_n9itrmk",
-      "titleFieldId": "fld_mu18c0oy_za60rz4",
+      "groupFieldId": "fld_mu1tpfig_w9j4e2p",
+      "titleFieldId": "fld_mu1tpfig_wqdh479",
       "cardFieldIds": [
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ]
     },
     {
-      "id": "view_mu18c0oz_m4pqon6",
+      "id": "view_mu1tpfig_peux0xl",
       "name": "画廊",
       "fieldOrder": [
-        "fld_mu18c0oy_za60rz4",
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_wqdh479",
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -117,22 +106,22 @@
       "collapsedDetailGroups": [],
       "type": "gallery",
       "coverFieldId": null,
-      "titleFieldId": "fld_mu18c0oy_za60rz4",
+      "titleFieldId": "fld_mu1tpfig_wqdh479",
       "cardFieldIds": [
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "layoutPreset": "4x4",
       "coverFit": "smart",
       "cardClickAction": "select"
     },
     {
-      "id": "view_mu18c0oz_48695nb",
+      "id": "view_mu1tpfig_be4tjzy",
       "name": "日历",
       "fieldOrder": [
-        "fld_mu18c0oy_za60rz4",
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_wqdh479",
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -142,20 +131,20 @@
       "collapsedDetailGroups": [],
       "type": "calendar",
       "dateFieldId": null,
-      "titleFieldId": "fld_mu18c0oy_za60rz4",
+      "titleFieldId": "fld_mu1tpfig_wqdh479",
       "cardFieldIds": [
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "month": "2026-09"
     },
     {
-      "id": "view_mu18c0oz_cf2zczp",
+      "id": "view_mu1tpfih_s1yk446",
       "name": "时间线",
       "fieldOrder": [
-        "fld_mu18c0oy_za60rz4",
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_wqdh479",
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -166,17 +155,17 @@
       "type": "timeline",
       "startFieldId": null,
       "endFieldId": null,
-      "titleFieldId": "fld_mu18c0oy_za60rz4",
+      "titleFieldId": "fld_mu1tpfig_wqdh479",
       "cardFieldIds": [
-        "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu1tpfig_w9j4e2p",
+        "fld_mu1tpfig_tr01kbg"
       ],
       "month": "2026-09"
     }
   ],
-  "activeViewId": "view_mu18c0oy_rt1e2ij",
+  "activeViewId": "view_mu1tpfig_tgjqmfy",
   "meta": {
-    "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-14T18:23:42.927Z"
+    "createdAt": "2026-09-14T22:37:21.736Z",
+    "updatedAt": "2026-09-14T22:37:21.736Z"
   }
 }
