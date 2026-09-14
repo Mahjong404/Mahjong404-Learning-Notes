@@ -45,28 +45,24 @@
       "id": "fld_mu1pc4u7_y5dzqgt",
       "name": "新字段",
       "type": "longText",
-      "required": false,
       "width": 260
     },
     {
       "id": "fld_mu1pc809_dve7656",
       "name": "新字段 2",
       "type": "checkbox",
-      "required": false,
       "width": 96
     },
     {
       "id": "fld_mu1pcacz_4oh3sb0",
       "name": "新字段 3",
       "type": "longText",
-      "required": false,
       "width": 260
     },
     {
       "id": "fld_mu1pccyi_a090ov4",
       "name": "新字段 4",
       "type": "longText",
-      "required": false,
       "width": 260
     }
   ],
@@ -225,6 +221,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-14T22:11:03.201Z"
+    "updatedAt": "2026-09-14T20:35:13.434Z"
   }
 }
