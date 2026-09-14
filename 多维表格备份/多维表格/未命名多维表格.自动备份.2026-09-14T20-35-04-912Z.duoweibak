@@ -40,30 +40,6 @@
       "type": "checkbox",
       "required": false,
       "width": 96
-    },
-    {
-      "id": "fld_mu1pc4u7_y5dzqgt",
-      "name": "新字段",
-      "type": "longText",
-      "width": 260
-    },
-    {
-      "id": "fld_mu1pc809_dve7656",
-      "name": "新字段 2",
-      "type": "checkbox",
-      "width": 96
-    },
-    {
-      "id": "fld_mu1pcacz_4oh3sb0",
-      "name": "新字段 3",
-      "type": "longText",
-      "width": 260
-    },
-    {
-      "id": "fld_mu1pccyi_a090ov4",
-      "name": "新字段 4",
-      "type": "longText",
-      "width": 260
     }
   ],
   "records": [
@@ -85,11 +61,7 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm",
-        "fld_mu1pc4u7_y5dzqgt",
-        "fld_mu1pc809_dve7656",
-        "fld_mu1pcacz_4oh3sb0",
-        "fld_mu1pccyi_a090ov4"
+        "fld_mu18c0oy_dgnsbqm"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -113,11 +85,7 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm",
-        "fld_mu1pc4u7_y5dzqgt",
-        "fld_mu1pc809_dve7656",
-        "fld_mu1pcacz_4oh3sb0",
-        "fld_mu1pccyi_a090ov4"
+        "fld_mu18c0oy_dgnsbqm"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -139,11 +107,7 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm",
-        "fld_mu1pc4u7_y5dzqgt",
-        "fld_mu1pc809_dve7656",
-        "fld_mu1pcacz_4oh3sb0",
-        "fld_mu1pccyi_a090ov4"
+        "fld_mu18c0oy_dgnsbqm"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -168,11 +132,7 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm",
-        "fld_mu1pc4u7_y5dzqgt",
-        "fld_mu1pc809_dve7656",
-        "fld_mu1pcacz_4oh3sb0",
-        "fld_mu1pccyi_a090ov4"
+        "fld_mu18c0oy_dgnsbqm"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -195,11 +155,7 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm",
-        "fld_mu1pc4u7_y5dzqgt",
-        "fld_mu1pc809_dve7656",
-        "fld_mu1pcacz_4oh3sb0",
-        "fld_mu1pccyi_a090ov4"
+        "fld_mu18c0oy_dgnsbqm"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -221,6 +177,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-14T20:35:13.434Z"
+    "updatedAt": "2026-09-14T19:56:57.359Z"
   }
 }
