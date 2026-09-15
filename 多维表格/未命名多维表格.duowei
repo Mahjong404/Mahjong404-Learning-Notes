@@ -47,11 +47,12 @@
       "id": "rec_mu1kn8lr_qm84wan",
       "syncUid": "sync_mu1kn8lr_x2orce5",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "啊啊"
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-14T18:23:42.927Z"
+      "updatedAt": "2026-09-15T06:02:30.894Z"
     }
   ],
   "views": [
@@ -177,6 +178,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-14T22:38:27.110Z"
+    "updatedAt": "2026-09-15T06:02:30.894Z"
   }
 }
