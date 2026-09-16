@@ -63,46 +63,6 @@
       "notePath": null,
       "createdAt": "2026-09-15T06:35:36.385Z",
       "updatedAt": "2026-09-15T06:35:36.385Z"
-    },
-    {
-      "id": "rec_mu44rnq5_1drpzc0",
-      "syncUid": "sync_mu44rnq5_kilgm9r",
-      "values": {
-        "fld_mu18c0oy_dgnsbqm": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-16T13:22:33.821Z",
-      "updatedAt": "2026-09-16T13:22:33.821Z"
-    },
-    {
-      "id": "rec_mu44ro9w_73efy4m",
-      "syncUid": "sync_mu44ro9w_bn0h1x6",
-      "values": {
-        "fld_mu18c0oy_dgnsbqm": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-16T13:22:34.532Z",
-      "updatedAt": "2026-09-16T13:22:34.532Z"
-    },
-    {
-      "id": "rec_mu44rp11_7rudt86",
-      "syncUid": "sync_mu44rp11_n09nquy",
-      "values": {
-        "fld_mu18c0oy_dgnsbqm": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-16T13:22:35.509Z",
-      "updatedAt": "2026-09-16T13:22:35.509Z"
-    },
-    {
-      "id": "rec_mu44rplp_ccapdmh",
-      "syncUid": "sync_mu44rplp_llka1wn",
-      "values": {
-        "fld_mu18c0oy_dgnsbqm": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-16T13:22:36.253Z",
-      "updatedAt": "2026-09-16T13:22:36.253Z"
     }
   ],
   "views": [
@@ -228,6 +188,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-16T13:22:36.253Z"
+    "updatedAt": "2026-09-16T00:31:26.491Z"
   }
 }
