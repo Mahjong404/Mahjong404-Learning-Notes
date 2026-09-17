@@ -129,8 +129,10 @@
       "rowHeight": "default",
       "rowHeights": {},
       "frozenFieldCount": 1,
-      "groupFieldId": null,
-      "groupBy": [],
+      "groupFieldId": "fld_mu18c0oy_n9itrmk",
+      "groupBy": [
+        "fld_mu18c0oy_n9itrmk"
+      ],
       "collapsedGroups": [],
       "wrapText": false,
       "columnSummaries": {}
@@ -233,6 +235,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-17T05:34:23.431Z"
+    "updatedAt": "2026-09-17T05:37:00.118Z"
   }
 }
