@@ -14,7 +14,6 @@
       "id": "fld_mu18c0oy_n9itrmk",
       "name": "数字",
       "type": "number",
-      "required": false,
       "width": 145
     },
     {
@@ -37,16 +36,6 @@
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
       "updatedAt": "2026-09-17T05:33:49.116Z"
-    },
-    {
-      "id": "rec_mu59ujk7_1bswadz",
-      "syncUid": "sync_mu59ujk7_8lo9r4f",
-      "values": {
-        "fld_mu18c0oy_dgnsbqm": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-09-17T08:32:32.647Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -248,6 +237,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-17T08:32:32.647Z"
+    "updatedAt": "2026-09-17T05:41:49.904Z"
   }
 }
