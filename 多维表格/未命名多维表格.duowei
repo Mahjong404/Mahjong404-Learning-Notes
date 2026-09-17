@@ -12,27 +12,9 @@
     },
     {
       "id": "fld_mu18c0oy_n9itrmk",
-      "name": "状态",
-      "type": "singleSelect",
-      "required": false,
-      "width": 145,
-      "options": [
-        {
-          "id": "opt_mu18c0oy_x7ifgci",
-          "name": "待处理",
-          "color": "var(--color-orange)"
-        },
-        {
-          "id": "opt_mu18c0oy_2jd9fdh",
-          "name": "进行中",
-          "color": "var(--color-blue)"
-        },
-        {
-          "id": "opt_mu18c0oy_5fh9b20",
-          "name": "已完成",
-          "color": "var(--color-green)"
-        }
-      ]
+      "name": "数字",
+      "type": "number",
+      "width": 145
     },
     {
       "id": "fld_mu18c0oy_dgnsbqm",
@@ -48,44 +30,48 @@
       "syncUid": "sync_mu1kn8lr_x2orce5",
       "values": {
         "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "Alpha"
+        "fld_mu18c0oy_za60rz4": "Alpha",
+        "fld_mu18c0oy_n9itrmk": 42
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-17T05:33:01.868Z"
+      "updatedAt": "2026-09-17T05:33:49.116Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
       "syncUid": "sync_mu4l3v4c_hvsnod5",
       "values": {
         "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "Beta"
+        "fld_mu18c0oy_za60rz4": "Beta",
+        "fld_mu18c0oy_n9itrmk": 12
       },
       "notePath": null,
       "createdAt": "2026-09-16T20:59:57.132Z",
-      "updatedAt": "2026-09-17T05:33:05.026Z"
+      "updatedAt": "2026-09-17T05:33:50.289Z"
     },
     {
       "id": "rec_mu2asgg2_091o313",
       "syncUid": "sync_mu2asgg2_x2lpibw",
       "values": {
         "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "Delta"
+        "fld_mu18c0oy_za60rz4": "Delta",
+        "fld_mu18c0oy_n9itrmk": 72
       },
       "notePath": null,
       "createdAt": "2026-09-15T06:35:36.385Z",
-      "updatedAt": "2026-09-17T05:33:12.180Z"
+      "updatedAt": "2026-09-17T05:34:00.555Z"
     },
     {
       "id": "rec_mu44rnq5_1drpzc0",
       "syncUid": "sync_mu44rnq5_kilgm9r",
       "values": {
         "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "Gamma"
+        "fld_mu18c0oy_za60rz4": "Gamma",
+        "fld_mu18c0oy_n9itrmk": 12
       },
       "notePath": null,
       "createdAt": "2026-09-16T13:22:33.821Z",
-      "updatedAt": "2026-09-17T05:33:16.762Z"
+      "updatedAt": "2026-09-17T05:33:56.549Z"
     },
     {
       "id": "rec_mu44ro9w_73efy4m",
@@ -247,6 +233,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-17T05:33:16.762Z"
+    "updatedAt": "2026-09-17T05:34:00.555Z"
   }
 }
