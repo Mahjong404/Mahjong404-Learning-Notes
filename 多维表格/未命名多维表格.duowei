@@ -48,41 +48,44 @@
       "syncUid": "sync_mu1kn8lr_x2orce5",
       "values": {
         "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "啊啊"
+        "fld_mu18c0oy_za60rz4": "Alpha"
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-16T20:14:26.466Z"
+      "updatedAt": "2026-09-17T05:33:01.868Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
       "syncUid": "sync_mu4l3v4c_hvsnod5",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Beta"
       },
       "notePath": null,
       "createdAt": "2026-09-16T20:59:57.132Z",
-      "updatedAt": "2026-09-16T20:59:57.132Z"
+      "updatedAt": "2026-09-17T05:33:05.026Z"
     },
     {
       "id": "rec_mu2asgg2_091o313",
       "syncUid": "sync_mu2asgg2_x2lpibw",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Delta"
       },
       "notePath": null,
       "createdAt": "2026-09-15T06:35:36.385Z",
-      "updatedAt": "2026-09-16T13:32:13.287Z"
+      "updatedAt": "2026-09-17T05:33:12.180Z"
     },
     {
       "id": "rec_mu44rnq5_1drpzc0",
       "syncUid": "sync_mu44rnq5_kilgm9r",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Gamma"
       },
       "notePath": null,
       "createdAt": "2026-09-16T13:22:33.821Z",
-      "updatedAt": "2026-09-16T13:32:13.287Z"
+      "updatedAt": "2026-09-17T05:33:16.762Z"
     },
     {
       "id": "rec_mu44ro9w_73efy4m",
@@ -244,6 +247,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-17T05:32:37.636Z"
+    "updatedAt": "2026-09-17T05:33:16.762Z"
   }
 }
