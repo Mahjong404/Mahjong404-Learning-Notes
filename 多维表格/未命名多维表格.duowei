@@ -30,13 +30,13 @@
       "id": "rec_mu1kn8lr_qm84wan",
       "syncUid": "sync_mu1kn8lr_x2orce5",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_dgnsbqm": true,
         "fld_mu18c0oy_za60rz4": "Alpha",
         "fld_mu18c0oy_n9itrmk": 42
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-17T05:33:49.116Z"
+      "updatedAt": "2026-09-17T18:38:52.621Z"
     },
     {
       "id": "rec_mu59ujk7_1bswadz",
@@ -238,6 +238,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-17T18:38:38.717Z"
+    "updatedAt": "2026-09-17T18:38:52.621Z"
   }
 }
