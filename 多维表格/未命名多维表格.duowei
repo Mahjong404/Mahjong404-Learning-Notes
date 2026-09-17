@@ -126,7 +126,13 @@
       ],
       "hiddenFields": [],
       "sorts": [],
-      "filters": [],
+      "filters": [
+        {
+          "fieldId": "fld_mu18c0oy_za60rz4",
+          "op": "contains",
+          "value": ""
+        }
+      ],
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
@@ -238,6 +244,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-16T21:06:37.590Z"
+    "updatedAt": "2026-09-17T05:32:37.636Z"
   }
 }
