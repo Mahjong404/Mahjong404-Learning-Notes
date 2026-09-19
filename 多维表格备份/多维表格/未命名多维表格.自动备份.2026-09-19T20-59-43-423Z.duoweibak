@@ -8,31 +8,14 @@
       "name": "标题",
       "type": "text",
       "required": false,
-      "width": 240
+      "width": 230
     },
     {
       "id": "fld_mu18c0oy_n9itrmk",
-      "name": "状态",
-      "type": "singleSelect",
+      "name": "数字",
+      "type": "number",
       "required": false,
-      "width": 140,
-      "options": [
-        {
-          "id": "opt_mu18c0oy_x7ifgci",
-          "name": "待处理",
-          "color": "var(--color-orange)"
-        },
-        {
-          "id": "opt_mu18c0oy_2jd9fdh",
-          "name": "进行中",
-          "color": "var(--color-blue)"
-        },
-        {
-          "id": "opt_mu18c0oy_5fh9b20",
-          "name": "已完成",
-          "color": "var(--color-green)"
-        }
-      ]
+      "width": 145
     },
     {
       "id": "fld_mu18c0oy_dgnsbqm",
@@ -47,22 +30,89 @@
       "id": "rec_mu1kn8lr_qm84wan",
       "syncUid": "sync_mu1kn8lr_x2orce5",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "啊啊"
+        "fld_mu18c0oy_dgnsbqm": true,
+        "fld_mu18c0oy_za60rz4": "Alpha",
+        "fld_mu18c0oy_n9itrmk": 42
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-15T06:02:30.894Z"
+      "updatedAt": "2026-09-17T18:38:52.621Z"
+    },
+    {
+      "id": "rec_mu59ujk7_1bswadz",
+      "syncUid": "sync_mu59ujk7_8lo9r4f",
+      "values": {
+        "fld_mu18c0oy_dgnsbqm": false
+      },
+      "notePath": null,
+      "createdAt": "2026-09-17T08:32:32.647Z",
+      "updatedAt": "2026-09-17T08:32:32.647Z"
+    },
+    {
+      "id": "rec_mu4l3v4c_ca6c1bh",
+      "syncUid": "sync_mu4l3v4c_hvsnod5",
+      "values": {
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Beta",
+        "fld_mu18c0oy_n9itrmk": 12
+      },
+      "notePath": null,
+      "createdAt": "2026-09-16T20:59:57.132Z",
+      "updatedAt": "2026-09-17T05:33:50.289Z"
     },
     {
       "id": "rec_mu2asgg2_091o313",
       "syncUid": "sync_mu2asgg2_x2lpibw",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Delta",
+        "fld_mu18c0oy_n9itrmk": 72
       },
       "notePath": null,
       "createdAt": "2026-09-15T06:35:36.385Z",
-      "updatedAt": "2026-09-15T06:35:36.385Z"
+      "updatedAt": "2026-09-17T05:34:00.555Z"
+    },
+    {
+      "id": "rec_mu44rnq5_1drpzc0",
+      "syncUid": "sync_mu44rnq5_kilgm9r",
+      "values": {
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Gamma",
+        "fld_mu18c0oy_n9itrmk": 12
+      },
+      "notePath": null,
+      "createdAt": "2026-09-16T13:22:33.821Z",
+      "updatedAt": "2026-09-17T05:33:56.549Z"
+    },
+    {
+      "id": "rec_mu44ro9w_73efy4m",
+      "syncUid": "sync_mu44ro9w_bn0h1x6",
+      "values": {
+        "fld_mu18c0oy_dgnsbqm": false
+      },
+      "notePath": null,
+      "createdAt": "2026-09-16T13:22:34.532Z",
+      "updatedAt": "2026-09-16T13:32:13.287Z"
+    },
+    {
+      "id": "rec_mu44rp11_7rudt86",
+      "syncUid": "sync_mu44rp11_n09nquy",
+      "values": {
+        "fld_mu18c0oy_dgnsbqm": false
+      },
+      "notePath": null,
+      "createdAt": "2026-09-16T13:22:35.509Z",
+      "updatedAt": "2026-09-16T13:32:13.287Z"
+    },
+    {
+      "id": "rec_mu44rplp_ccapdmh",
+      "syncUid": "sync_mu44rplp_llka1wn",
+      "values": {
+        "fld_mu18c0oy_dgnsbqm": false
+      },
+      "notePath": null,
+      "createdAt": "2026-09-16T13:22:36.253Z",
+      "updatedAt": "2026-09-16T13:22:36.253Z"
     }
   ],
   "views": [
@@ -188,6 +238,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-15T06:35:36.386Z"
+    "updatedAt": "2026-09-19T19:34:47.512Z"
   }
 }
