@@ -62,46 +62,6 @@
       "notePath": null,
       "createdAt": "2026-09-24T18:46:50.291Z",
       "updatedAt": "2026-09-24T18:46:50.291Z"
-    },
-    {
-      "id": "rec_muik1l04_6u8t9n3",
-      "syncUid": "sync_muik1l04_rlfs3i3",
-      "values": {
-        "fld_mufvv9nd_8more2q": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-26T15:38:57.556Z",
-      "updatedAt": "2026-09-26T15:38:57.556Z"
-    },
-    {
-      "id": "rec_muik1lkd_pn25fh3",
-      "syncUid": "sync_muik1lkd_hrm8fjs",
-      "values": {
-        "fld_mufvv9nd_8more2q": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-26T15:38:58.285Z",
-      "updatedAt": "2026-09-26T15:38:58.285Z"
-    },
-    {
-      "id": "rec_muik1mfp_ntzlhy2",
-      "syncUid": "sync_muik1mfp_n4mmp1v",
-      "values": {
-        "fld_mufvv9nd_8more2q": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-26T15:38:59.413Z",
-      "updatedAt": "2026-09-26T15:38:59.413Z"
-    },
-    {
-      "id": "rec_muik1mxa_12bys3z",
-      "syncUid": "sync_muik1mxa_sbz55ui",
-      "values": {
-        "fld_mufvv9nd_8more2q": false
-      },
-      "notePath": null,
-      "createdAt": "2026-09-26T15:39:00.046Z",
-      "updatedAt": "2026-09-26T15:39:00.046Z"
     }
   ],
   "views": [
@@ -227,6 +187,6 @@
   "activeViewId": "view_mufvv9nd_5ci3gn5",
   "meta": {
     "createdAt": "2026-09-24T18:46:39.769Z",
-    "updatedAt": "2026-09-26T15:39:00.046Z"
+    "updatedAt": "2026-09-25T19:29:56.327Z"
   }
 }
