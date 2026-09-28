@@ -36,17 +36,18 @@
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-17T18:38:52.621Z"
+      "updatedAt": "2026-09-27T16:18:23.289Z"
     },
     {
       "id": "rec_mu59ujk7_1bswadz",
       "syncUid": "sync_mu59ujk7_8lo9r4f",
       "values": {
-        "fld_mu18c0oy_dgnsbqm": false
+        "fld_mu18c0oy_dgnsbqm": false,
+        "fld_mu18c0oy_za60rz4": "Alpha"
       },
       "notePath": null,
       "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-09-17T08:32:32.647Z"
+      "updatedAt": "2026-09-28T07:54:45.012Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -238,6 +239,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-17T18:38:52.621Z"
+    "updatedAt": "2026-09-28T07:54:45.012Z"
   }
 }
