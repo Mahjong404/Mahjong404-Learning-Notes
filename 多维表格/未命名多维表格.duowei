@@ -23,6 +23,14 @@
       "type": "checkbox",
       "required": false,
       "width": 96
+    },
+    {
+      "id": "fld_mus0icjg_8h3s7ev",
+      "name": "新字段",
+      "type": "multiSelect",
+      "width": 150,
+      "description": "多选题",
+      "options": []
     }
   ],
   "records": [
@@ -123,7 +131,8 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -147,7 +156,8 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -169,7 +179,8 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -194,7 +205,8 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -217,7 +229,8 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -239,6 +252,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-28T07:54:45.012Z"
+    "updatedAt": "2026-10-03T06:29:49.180Z"
   }
 }
