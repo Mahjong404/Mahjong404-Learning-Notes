@@ -15,7 +15,7 @@
       "name": "数字",
       "type": "number",
       "required": false,
-      "width": 145
+      "width": 141
     },
     {
       "id": "fld_mu18c0oy_dgnsbqm",
@@ -28,8 +28,9 @@
       "id": "fld_mus0icjg_8h3s7ev",
       "name": "自选",
       "type": "multiSelect",
-      "width": 150,
       "description": "多选题",
+      "required": false,
+      "width": 150,
       "options": [
         {
           "id": "opt_mus0j00c_84dm1x9",
@@ -98,7 +99,7 @@
       },
       "notePath": null,
       "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-10-03T06:30:52.428Z"
+      "updatedAt": "2026-10-03T09:39:44.080Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -295,6 +296,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-03T06:30:52.429Z"
+    "updatedAt": "2026-10-03T09:39:44.080Z"
   }
 }
