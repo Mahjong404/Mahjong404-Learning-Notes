@@ -123,11 +123,12 @@
         "fld_mus0icjg_8h3s7ev": [
           "opt_mus0j00c_84dm1x9",
           "opt_mus0j336_c1uc5tu"
-        ]
+        ],
+        "fld_muvbkbib_vpf02j0": "opt_muvbkgp1_c45f5rx"
       },
       "notePath": null,
       "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-10-03T09:39:44.080Z"
+      "updatedAt": "2026-10-05T14:03:16.141Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -329,6 +330,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-05T14:03:02.914Z"
+    "updatedAt": "2026-10-05T14:03:16.141Z"
   }
 }
