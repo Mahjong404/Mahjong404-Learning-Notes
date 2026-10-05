@@ -38,7 +38,7 @@
         },
         {
           "id": "opt_mus0j336_c1uc5tu",
-          "name": "B",
+          "name": "BYD",
           "color": "var(--color-green)"
         },
         {
@@ -128,7 +128,7 @@
       },
       "notePath": null,
       "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-10-05T14:03:16.141Z"
+      "updatedAt": "2026-10-05T14:03:31.161Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -330,6 +330,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-05T14:03:16.141Z"
+    "updatedAt": "2026-10-05T14:03:59.574Z"
   }
 }
