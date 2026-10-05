@@ -26,10 +26,9 @@
     },
     {
       "id": "fld_mus0icjg_8h3s7ev",
-      "name": "自选",
+      "name": "多选",
       "type": "multiSelect",
       "description": "多选题",
-      "required": false,
       "width": 150,
       "options": [
         {
@@ -330,6 +329,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-05T14:02:49.062Z"
+    "updatedAt": "2026-10-05T14:03:02.914Z"
   }
 }
