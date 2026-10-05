@@ -68,6 +68,34 @@
           "color": "var(--color-yellow)"
         }
       ]
+    },
+    {
+      "id": "fld_muvbkbib_vpf02j0",
+      "name": "单选",
+      "type": "singleSelect",
+      "width": 150,
+      "options": [
+        {
+          "id": "opt_muvbkf4q_40m0rkh",
+          "name": "A",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_muvbkgp1_c45f5rx",
+          "name": "B",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_muvbkhqt_buf18ls",
+          "name": "C",
+          "color": "var(--color-orange)"
+        },
+        {
+          "id": "opt_muvbkj8k_1jxgb7n",
+          "name": "D",
+          "color": "var(--color-purple)"
+        }
+      ]
     }
   ],
   "records": [
@@ -80,11 +108,12 @@
         "fld_mu18c0oy_n9itrmk": 42,
         "fld_mus0icjg_8h3s7ev": [
           "opt_mus0j00c_84dm1x9"
-        ]
+        ],
+        "fld_muvbkbib_vpf02j0": "opt_muvbkf4q_40m0rkh"
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-10-03T06:30:42.303Z"
+      "updatedAt": "2026-10-05T14:02:49.062Z"
     },
     {
       "id": "rec_mu59ujk7_1bswadz",
@@ -176,7 +205,8 @@
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
-        "fld_mus0icjg_8h3s7ev"
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -201,7 +231,8 @@
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
-        "fld_mus0icjg_8h3s7ev"
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -224,7 +255,8 @@
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
-        "fld_mus0icjg_8h3s7ev"
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -250,7 +282,8 @@
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
-        "fld_mus0icjg_8h3s7ev"
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -274,7 +307,8 @@
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
-        "fld_mus0icjg_8h3s7ev"
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -296,6 +330,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-03T09:39:44.080Z"
+    "updatedAt": "2026-10-05T14:02:49.062Z"
   }
 }
