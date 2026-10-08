@@ -66,6 +66,11 @@
           "id": "opt_mus0j9xv_dop3q29",
           "name": "G",
           "color": "var(--color-yellow)"
+        },
+        {
+          "id": "opt_muyxwust_12oxg7h",
+          "name": "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+          "color": "var(--color-pink)"
         }
       ]
     },
@@ -129,13 +134,14 @@
         "fld_mu18c0oy_za60rz4": "Alpha",
         "fld_mus0icjg_8h3s7ev": [
           "opt_mus0j00c_84dm1x9",
-          "opt_mus0j336_c1uc5tu"
+          "opt_mus0j336_c1uc5tu",
+          "opt_muyxwust_12oxg7h"
         ],
         "fld_muvbkbib_vpf02j0": "opt_muvbkgp1_c45f5rx"
       },
       "notePath": null,
       "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-10-05T14:03:31.161Z"
+      "updatedAt": "2026-10-08T02:51:30.413Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -348,6 +354,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-08T02:36:00.747Z"
+    "updatedAt": "2026-10-08T02:51:30.413Z"
   }
 }
