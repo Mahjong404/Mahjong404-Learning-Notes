@@ -30,7 +30,7 @@
       "type": "multiSelect",
       "description": "多选题",
       "required": false,
-      "width": 150,
+      "width": 162,
       "options": [
         {
           "id": "opt_mus0j00c_84dm1x9",
@@ -223,18 +223,7 @@
       ],
       "hiddenFields": [],
       "sorts": [],
-      "filters": [
-        {
-          "fieldId": "fld_mu18c0oy_za60rz4",
-          "op": "contains",
-          "value": ""
-        },
-        {
-          "fieldId": "fld_mu18c0oy_za60rz4",
-          "op": "contains",
-          "value": ""
-        }
-      ],
+      "filters": [],
       "filterConjunction": "and",
       "colorRules": [],
       "collapsedDetailGroups": [],
@@ -354,6 +343,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-08T02:51:30.413Z"
+    "updatedAt": "2026-10-08T11:20:45.141Z"
   }
 }
