@@ -29,6 +29,7 @@
       "name": "多选",
       "type": "multiSelect",
       "description": "多选题",
+      "required": false,
       "width": 150,
       "options": [
         {
@@ -72,6 +73,7 @@
       "id": "fld_muvbkbib_vpf02j0",
       "name": "单选",
       "type": "singleSelect",
+      "required": false,
       "width": 150,
       "options": [
         {
@@ -335,6 +337,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-05T14:04:40.220Z"
+    "updatedAt": "2026-10-08T02:35:23.545Z"
   }
 }
