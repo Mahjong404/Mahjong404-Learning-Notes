@@ -15,7 +15,7 @@
       "name": "数字",
       "type": "number",
       "required": false,
-      "width": 145
+      "width": 141
     },
     {
       "id": "fld_mu18c0oy_dgnsbqm",
@@ -23,6 +23,90 @@
       "type": "checkbox",
       "required": false,
       "width": 96
+    },
+    {
+      "id": "fld_mus0icjg_8h3s7ev",
+      "name": "多选",
+      "type": "multiSelect",
+      "description": "多选题",
+      "required": false,
+      "width": 162,
+      "options": [
+        {
+          "id": "opt_mus0j00c_84dm1x9",
+          "name": "A",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_mus0j336_c1uc5tu",
+          "name": "BYD",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_mus0j4pk_yfp88n1",
+          "name": "C",
+          "color": "var(--color-orange)"
+        },
+        {
+          "id": "opt_mus0j684_3nun622",
+          "name": "D",
+          "color": "var(--color-purple)"
+        },
+        {
+          "id": "opt_mus0j7hx_81n58vn",
+          "name": "E",
+          "color": "var(--color-red)"
+        },
+        {
+          "id": "opt_mus0j8id_zimmasv",
+          "name": "F",
+          "color": "var(--color-cyan)"
+        },
+        {
+          "id": "opt_mus0j9xv_dop3q29",
+          "name": "G",
+          "color": "var(--color-yellow)"
+        },
+        {
+          "id": "opt_muyxwust_12oxg7h",
+          "name": "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+          "color": "var(--color-pink)"
+        }
+      ]
+    },
+    {
+      "id": "fld_muvbkbib_vpf02j0",
+      "name": "单选",
+      "type": "singleSelect",
+      "required": false,
+      "width": 150,
+      "options": [
+        {
+          "id": "opt_muvbkf4q_40m0rkh",
+          "name": "A",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_muvbkgp1_c45f5rx",
+          "name": "B",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_muvbkhqt_buf18ls",
+          "name": "C",
+          "color": "var(--color-orange)"
+        },
+        {
+          "id": "opt_muvbkj8k_1jxgb7n",
+          "name": "D",
+          "color": "var(--color-purple)"
+        },
+        {
+          "id": "opt_muvbmzrw_ga0pwru",
+          "name": "G",
+          "color": "var(--color-red)"
+        }
+      ]
     }
   ],
   "records": [
@@ -32,22 +116,32 @@
       "values": {
         "fld_mu18c0oy_dgnsbqm": true,
         "fld_mu18c0oy_za60rz4": "Alpha",
-        "fld_mu18c0oy_n9itrmk": 42
+        "fld_mu18c0oy_n9itrmk": 42,
+        "fld_mus0icjg_8h3s7ev": [
+          "opt_mus0j00c_84dm1x9"
+        ],
+        "fld_muvbkbib_vpf02j0": "opt_muvbmzrw_ga0pwru"
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-09-27T16:18:23.289Z"
+      "updatedAt": "2026-10-05T14:04:40.220Z"
     },
     {
       "id": "rec_mu59ujk7_1bswadz",
       "syncUid": "sync_mu59ujk7_8lo9r4f",
       "values": {
         "fld_mu18c0oy_dgnsbqm": false,
-        "fld_mu18c0oy_za60rz4": "Alpha"
+        "fld_mu18c0oy_za60rz4": "Alpha",
+        "fld_mus0icjg_8h3s7ev": [
+          "opt_mus0j00c_84dm1x9",
+          "opt_mus0j336_c1uc5tu",
+          "opt_muyxwust_12oxg7h"
+        ],
+        "fld_muvbkbib_vpf02j0": "opt_muvbkgp1_c45f5rx"
       },
       "notePath": null,
       "createdAt": "2026-09-17T08:32:32.647Z",
-      "updatedAt": "2026-09-28T07:54:45.012Z"
+      "updatedAt": "2026-10-08T02:51:30.413Z"
     },
     {
       "id": "rec_mu4l3v4c_ca6c1bh",
@@ -123,7 +217,9 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -134,7 +230,7 @@
       "type": "grid",
       "rowHeight": "default",
       "rowHeights": {},
-      "frozenFieldCount": 1,
+      "frozenFieldCount": 0,
       "groupFieldId": null,
       "groupBy": [],
       "collapsedGroups": [],
@@ -147,7 +243,9 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -169,7 +267,9 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -194,7 +294,9 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -217,7 +319,9 @@
       "fieldOrder": [
         "fld_mu18c0oy_za60rz4",
         "fld_mu18c0oy_n9itrmk",
-        "fld_mu18c0oy_dgnsbqm"
+        "fld_mu18c0oy_dgnsbqm",
+        "fld_mus0icjg_8h3s7ev",
+        "fld_muvbkbib_vpf02j0"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -239,6 +343,6 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-09-28T07:55:46.520Z"
+    "updatedAt": "2026-10-08T13:29:51.260Z"
   }
 }
