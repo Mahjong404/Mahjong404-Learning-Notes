@@ -141,12 +141,6 @@
       "type": "text",
       "required": false,
       "width": 180
-    },
-    {
-      "id": "fld_mv6zgucv_jpa13xv",
-      "name": "新字段",
-      "type": "location",
-      "width": 180
     }
   ],
   "views": [
@@ -161,8 +155,7 @@
         "fld_mv6hh2bv_kbhthxx",
         "fld_mv6hh2bv_7n2fn61",
         "fld_mv6hh2bv_9dlxa5v",
-        "fld_mv6hh2bv_l344vh4",
-        "fld_mv6zgucv_jpa13xv"
+        "fld_mv6hh2bv_l344vh4"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -193,8 +186,7 @@
         "fld_mv6hh2bv_kbhthxx",
         "fld_mv6hh2bv_7n2fn61",
         "fld_mv6hh2bv_9dlxa5v",
-        "fld_mv6hh2bv_l344vh4",
-        "fld_mv6zgucv_jpa13xv"
+        "fld_mv6hh2bv_l344vh4"
       ],
       "hiddenFields": [
         "fld_mv6hh2bv_1olouu0",
@@ -249,8 +241,7 @@
         "fld_mv6hh2bv_kbhthxx",
         "fld_mv6hh2bv_7n2fn61",
         "fld_mv6hh2bv_9dlxa5v",
-        "fld_mv6hh2bv_l344vh4",
-        "fld_mv6zgucv_jpa13xv"
+        "fld_mv6hh2bv_l344vh4"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -289,8 +280,7 @@
         "fld_mv6hh2bv_kbhthxx",
         "fld_mv6hh2bv_7n2fn61",
         "fld_mv6hh2bv_9dlxa5v",
-        "fld_mv6hh2bv_l344vh4",
-        "fld_mv6zgucv_jpa13xv"
+        "fld_mv6hh2bv_l344vh4"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -408,8 +398,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T17:57:11.983Z",
-    "revision": 15,
+    "updatedAt": "2026-10-13T17:57:40.456Z",
+    "revision": 17,
     "writerVersion": 22
   },
   "fieldRoles": {
@@ -457,6 +447,17 @@
       "notePath": null,
       "createdAt": "2026-10-13T17:55:27.493Z",
       "updatedAt": "2026-10-13T17:55:27.494Z"
+    },
+    {
+      "id": "rec_mv6zhgbr_gjzww8n",
+      "revision": 1,
+      "syncUid": "sync_mv6zhgbr_c3js329",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T17:57:40.455Z",
+      "updatedAt": "2026-10-13T17:57:40.456Z"
     }
   ]
 }
