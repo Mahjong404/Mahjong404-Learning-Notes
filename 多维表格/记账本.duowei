@@ -159,12 +159,7 @@
         "fld_mv6hh2bv_l344vh4"
       ],
       "hiddenFields": [],
-      "sorts": [
-        {
-          "fieldId": "fld_mv6hh2bv_kbhthxx",
-          "direction": "desc"
-        }
-      ],
+      "sorts": [],
       "filters": [],
       "filterConjunction": "and",
       "colorRules": [],
@@ -404,8 +399,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T09:35:47.544Z",
-    "revision": 7,
+    "updatedAt": "2026-10-13T09:36:13.453Z",
+    "revision": 9,
     "writerVersion": 22
   },
   "fieldRoles": {
@@ -420,17 +415,5 @@
     "sampleRecordIds": [],
     "guideDismissed": true
   },
-  "records": [
-    {
-      "id": "rec_mv6hk11z_cssoyld",
-      "revision": 1,
-      "syncUid": "sync_mv6hk11z_h88x0sr",
-      "values": {
-        "fld_mv6hh2bv_9dlxa5v": 0
-      },
-      "notePath": null,
-      "createdAt": "2026-10-13T09:35:47.543Z",
-      "updatedAt": "2026-10-13T09:35:47.544Z"
-    }
-  ]
+  "records": []
 }
