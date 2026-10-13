@@ -399,8 +399,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T09:36:13.453Z",
-    "revision": 9,
+    "updatedAt": "2026-10-13T09:58:26.584Z",
+    "revision": 10,
     "writerVersion": 22
   },
   "fieldRoles": {
@@ -415,5 +415,17 @@
     "sampleRecordIds": [],
     "guideDismissed": true
   },
-  "records": []
+  "records": [
+    {
+      "id": "rec_mv6id5p4_tg5xlc2",
+      "revision": 1,
+      "syncUid": "sync_mv6id5p4_6kpbf9q",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:58:26.584Z",
+      "updatedAt": "2026-10-13T09:58:26.584Z"
+    }
+  ]
 }
