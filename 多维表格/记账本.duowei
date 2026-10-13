@@ -93,8 +93,7 @@
     {
       "id": "fld_mv6hh2bv_kbhthxx",
       "name": "日期",
-      "type": "date",
-      "required": false,
+      "type": "dateTime",
       "width": 128
     },
     {
@@ -399,8 +398,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T09:58:40.454Z",
-    "revision": 11,
+    "updatedAt": "2026-10-13T17:39:11.359Z",
+    "revision": 13,
     "writerVersion": 22
   },
   "fieldRoles": {
