@@ -404,8 +404,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T09:34:51.057Z",
-    "revision": 5,
+    "updatedAt": "2026-10-13T09:35:47.544Z",
+    "revision": 7,
     "writerVersion": 22
   },
   "fieldRoles": {
@@ -417,7 +417,20 @@
     "templateId": "budget",
     "templateName": "记账本",
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "sampleRecordIds": []
+    "sampleRecordIds": [],
+    "guideDismissed": true
   },
-  "records": []
+  "records": [
+    {
+      "id": "rec_mv6hk11z_cssoyld",
+      "revision": 1,
+      "syncUid": "sync_mv6hk11z_h88x0sr",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:35:47.543Z",
+      "updatedAt": "2026-10-13T09:35:47.544Z"
+    }
+  ]
 }
