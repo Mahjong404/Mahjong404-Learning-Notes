@@ -1,0 +1,555 @@
+{
+  "schemaVersion": 1,
+  "id": "tbl_mv6hh2bv_gdl9i1b",
+  "name": "记账本",
+  "fields": [
+    {
+      "id": "fld_mv6hh2bv_2m2v10g",
+      "name": "项目",
+      "type": "text",
+      "width": 200,
+      "required": true
+    },
+    {
+      "id": "fld_mv6hh2bv_9q52ckv",
+      "name": "金额",
+      "type": "number",
+      "width": 120,
+      "numberFormat": {
+        "style": "currency",
+        "decimals": 2,
+        "currencySymbol": "¥"
+      }
+    },
+    {
+      "id": "fld_mv6hh2bv_1olouu0",
+      "name": "收支",
+      "type": "singleSelect",
+      "width": 90,
+      "options": [
+        {
+          "id": "opt_mv6hh2bv_8ypst9b",
+          "name": "支出",
+          "color": "var(--color-red)"
+        },
+        {
+          "id": "opt_mv6hh2bv_r6dfi98",
+          "name": "收入",
+          "color": "var(--color-green)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mv6hh2bv_ndben9d",
+      "name": "分类",
+      "type": "singleSelect",
+      "width": 110,
+      "options": [
+        {
+          "id": "opt_mv6hh2bv_4t3thks",
+          "name": "餐饮",
+          "color": "var(--color-orange)"
+        },
+        {
+          "id": "opt_mv6hh2bv_lx23taz",
+          "name": "交通",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_mv6hh2bv_lwq6xk2",
+          "name": "购物",
+          "color": "var(--color-pink)"
+        },
+        {
+          "id": "opt_mv6hh2bv_aulhluk",
+          "name": "居住",
+          "color": "var(--color-purple)"
+        },
+        {
+          "id": "opt_mv6hh2bv_r24iq31",
+          "name": "娱乐",
+          "color": "var(--color-cyan)"
+        },
+        {
+          "id": "opt_mv6hh2bv_u3341pm",
+          "name": "医疗",
+          "color": "var(--color-red)"
+        },
+        {
+          "id": "opt_mv6hh2bv_onmw88c",
+          "name": "工资",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_mv6hh2bv_hudwlif",
+          "name": "其他",
+          "color": "var(--color-yellow)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mv6hh2bv_kbhthxx",
+      "name": "日期",
+      "type": "date",
+      "width": 128
+    },
+    {
+      "id": "fld_mv6hh2bv_7n2fn61",
+      "name": "支付方式",
+      "type": "singleSelect",
+      "width": 110,
+      "options": [
+        {
+          "id": "opt_mv6hh2bv_6yb1lk0",
+          "name": "微信",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_mv6hh2bv_22aw4ld",
+          "name": "支付宝",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_mv6hh2bv_4uzbcgy",
+          "name": "银行卡",
+          "color": "var(--color-purple)"
+        },
+        {
+          "id": "opt_mv6hh2bv_km7f93o",
+          "name": "现金",
+          "color": "var(--color-orange)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mv6hh2bv_9dlxa5v",
+      "name": "收支额",
+      "type": "formula",
+      "width": 120,
+      "description": "收入记正数、支出记负数，底部求和即为结余。",
+      "formula": "if([收支] == \"收入\", [金额], 0 - [金额])",
+      "formulaResultType": "number"
+    },
+    {
+      "id": "fld_mv6hh2bv_l344vh4",
+      "name": "备注",
+      "type": "text",
+      "width": 180
+    }
+  ],
+  "records": [
+    {
+      "id": "rec_mv6hh2bv_ywtbyib",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_m7lszsb",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "工资",
+        "fld_mv6hh2bv_9q52ckv": 12000,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_r6dfi98",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_onmw88c",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-04",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_4uzbcgy"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_c081mqd",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_uztqg8c",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "房租",
+        "fld_mv6hh2bv_9q52ckv": 3200,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_aulhluk",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-05",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_4uzbcgy"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_bujegg7",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_lbxebr2",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "超市采购",
+        "fld_mv6hh2bv_9q52ckv": 236.5,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_lwq6xk2",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-07",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_22aw4ld"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_dm8uxml",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_xynuelq",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "地铁充值",
+        "fld_mv6hh2bv_9q52ckv": 100,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_lx23taz",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-08",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_6yb1lk0"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_qc91bgk",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_au55aes",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "和朋友聚餐",
+        "fld_mv6hh2bv_9q52ckv": 328,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_4t3thks",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-10",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_6yb1lk0",
+        "fld_mv6hh2bv_l344vh4": "AA 后的份额"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_jfko31n",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_itjbts2",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "电影票",
+        "fld_mv6hh2bv_9q52ckv": 90,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_r24iq31",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-11",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_22aw4ld"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_6xhg4lo",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_z2l20m5",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "午饭",
+        "fld_mv6hh2bv_9q52ckv": 32,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_4t3thks",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-12",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_6yb1lk0"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    },
+    {
+      "id": "rec_mv6hh2bv_44y0vtl",
+      "revision": 0,
+      "syncUid": "sync_mv6hh2bv_qr6ks5j",
+      "values": {
+        "fld_mv6hh2bv_2m2v10g": "感冒药",
+        "fld_mv6hh2bv_9q52ckv": 45.8,
+        "fld_mv6hh2bv_1olouu0": "opt_mv6hh2bv_8ypst9b",
+        "fld_mv6hh2bv_ndben9d": "opt_mv6hh2bv_u3341pm",
+        "fld_mv6hh2bv_kbhthxx": "2026-10-13",
+        "fld_mv6hh2bv_7n2fn61": "opt_mv6hh2bv_6yb1lk0"
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:33:29.227Z",
+      "updatedAt": "2026-10-13T09:33:29.227Z"
+    }
+  ],
+  "views": [
+    {
+      "id": "view_mv6hh2bv_4li2mdv",
+      "name": "流水",
+      "type": "grid",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [],
+      "sorts": [
+        {
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "direction": "desc"
+        }
+      ],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "rowHeight": "default",
+      "rowHeights": {},
+      "frozenFieldCount": 1,
+      "groupFieldId": null,
+      "groupBy": [],
+      "collapsedGroups": [],
+      "wrapText": false,
+      "columnSummaries": {
+        "fld_mv6hh2bv_9dlxa5v": "sum"
+      }
+    },
+    {
+      "id": "view_mv6hh2bv_uukt7uh",
+      "name": "本月支出",
+      "type": "grid",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_9dlxa5v"
+      ],
+      "sorts": [
+        {
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "direction": "desc"
+        }
+      ],
+      "filters": [
+        {
+          "fieldId": "fld_mv6hh2bv_1olouu0",
+          "op": "isAnyOf",
+          "value": "",
+          "values": [
+            "opt_mv6hh2bv_8ypst9b"
+          ]
+        },
+        {
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "op": "isThisMonth",
+          "value": ""
+        }
+      ],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "rowHeight": "default",
+      "rowHeights": {},
+      "frozenFieldCount": 1,
+      "groupFieldId": "fld_mv6hh2bv_ndben9d",
+      "groupBy": [
+        "fld_mv6hh2bv_ndben9d"
+      ],
+      "collapsedGroups": [],
+      "wrapText": false,
+      "columnSummaries": {
+        "fld_mv6hh2bv_9q52ckv": "sum"
+      }
+    },
+    {
+      "id": "view_mv6hh2bv_7ztx301",
+      "name": "日历",
+      "type": "calendar",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "dateFieldId": "fld_mv6hh2bv_kbhthxx",
+      "colorFieldId": "fld_mv6hh2bv_1olouu0",
+      "scheduleStartFieldId": "fld_mv6hh2bv_kbhthxx",
+      "scheduleEndFieldId": null,
+      "scheduleAllDayFieldId": null,
+      "scheduleDayCount": 7,
+      "scheduleSlotMinutes": 30,
+      "scheduleDefaultDurationMinutes": 60,
+      "scheduleStartHour": 8,
+      "titleFieldId": "fld_mv6hh2bv_2m2v10g",
+      "cardFieldIds": [
+        "fld_mv6hh2bv_9q52ckv"
+      ],
+      "month": "2026-10",
+      "displayMode": "month",
+      "anchorDate": "2026-10-13",
+      "taskDisplayMode": "flat",
+      "collapsedTaskRecordIds": []
+    },
+    {
+      "id": "view_mv6hh2bv_v2yg96i",
+      "name": "仪表盘",
+      "type": "dashboard",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "widgets": [
+        {
+          "id": "wgt_mv6hh2bv_bu6xirh",
+          "sourceViewId": null,
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_9dlxa5v",
+          "summary": "sum",
+          "valueAggregate": "count",
+          "valueFieldId": null,
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 1,
+          "cardHeight": "compact",
+          "numberFormat": "auto",
+          "kind": "number",
+          "title": "结余"
+        },
+        {
+          "id": "wgt_mv6hh2bv_9opiqyq",
+          "sourceViewId": "view_mv6hh2bv_uukt7uh",
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_9q52ckv",
+          "summary": "sum",
+          "valueAggregate": "count",
+          "valueFieldId": null,
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 1,
+          "cardHeight": "compact",
+          "numberFormat": "auto",
+          "kind": "number",
+          "title": "本月支出"
+        },
+        {
+          "id": "wgt_mv6hh2bv_j6sl2m2",
+          "sourceViewId": null,
+          "titlePosition": "top",
+          "fieldId": null,
+          "summary": "filled",
+          "valueAggregate": "count",
+          "valueFieldId": null,
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 1,
+          "cardHeight": "compact",
+          "numberFormat": "auto",
+          "kind": "number",
+          "title": "记账笔数"
+        },
+        {
+          "id": "wgt_mv6hh2bv_7knyyht",
+          "sourceViewId": "view_mv6hh2bv_uukt7uh",
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_ndben9d",
+          "summary": "filled",
+          "valueAggregate": "sum",
+          "valueFieldId": "fld_mv6hh2bv_9q52ckv",
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 2,
+          "cardHeight": "standard",
+          "numberFormat": "auto",
+          "kind": "pie",
+          "title": "本月消费结构"
+        },
+        {
+          "id": "wgt_mv6hh2bv_lvig5q8",
+          "sourceViewId": "view_mv6hh2bv_uukt7uh",
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "summary": "filled",
+          "valueAggregate": "sum",
+          "valueFieldId": "fld_mv6hh2bv_9q52ckv",
+          "dateGranularity": "day",
+          "sortOrder": "source",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 2,
+          "cardHeight": "standard",
+          "numberFormat": "auto",
+          "kind": "line",
+          "title": "每日支出"
+        }
+      ],
+      "layoutPreset": "4x4"
+    }
+  ],
+  "activeViewId": "view_mv6hh2bv_4li2mdv",
+  "titleFieldId": "fld_mv6hh2bv_2m2v10g",
+  "meta": {
+    "createdAt": "2026-10-13T09:33:29.227Z",
+    "updatedAt": "2026-10-13T09:33:29.227Z",
+    "revision": 0,
+    "writerVersion": 22
+  },
+  "fieldRoles": {
+    "fields": {
+      "notes": "fld_mv6hh2bv_l344vh4"
+    }
+  },
+  "templateOrigin": {
+    "templateId": "budget",
+    "templateName": "记账本",
+    "createdAt": "2026-10-13T09:33:29.227Z",
+    "sampleRecordIds": [
+      "rec_mv6hh2bv_ywtbyib",
+      "rec_mv6hh2bv_c081mqd",
+      "rec_mv6hh2bv_bujegg7",
+      "rec_mv6hh2bv_dm8uxml",
+      "rec_mv6hh2bv_qc91bgk",
+      "rec_mv6hh2bv_jfko31n",
+      "rec_mv6hh2bv_6xhg4lo",
+      "rec_mv6hh2bv_44y0vtl"
+    ]
+  }
+}
