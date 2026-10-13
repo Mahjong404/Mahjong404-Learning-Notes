@@ -398,8 +398,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T17:39:11.359Z",
-    "revision": 13,
+    "updatedAt": "2026-10-13T17:55:27.494Z",
+    "revision": 14,
     "writerVersion": 22
   },
   "fieldRoles": {
@@ -436,6 +436,17 @@
       "notePath": null,
       "createdAt": "2026-10-13T09:58:40.454Z",
       "updatedAt": "2026-10-13T09:58:40.454Z"
+    },
+    {
+      "id": "rec_mv6zelqd_yo8ypm0",
+      "revision": 1,
+      "syncUid": "sync_mv6zelqd_5ajycfa",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T17:55:27.493Z",
+      "updatedAt": "2026-10-13T17:55:27.494Z"
     }
   ]
 }
