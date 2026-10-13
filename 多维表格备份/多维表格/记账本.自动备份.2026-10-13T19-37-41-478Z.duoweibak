@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "id": "tbl_mv6hh2bv_gdl9i1b",
+  "name": "记账本",
+  "fields": [
+    {
+      "id": "fld_mv6hh2bv_2m2v10g",
+      "name": "项目",
+      "type": "text",
+      "required": true,
+      "width": 200
+    },
+    {
+      "id": "fld_mv6hh2bv_9q52ckv",
+      "name": "金额",
+      "type": "number",
+      "required": false,
+      "width": 120,
+      "numberFormat": {
+        "style": "currency",
+        "decimals": 2,
+        "currencySymbol": "¥"
+      }
+    },
+    {
+      "id": "fld_mv6hh2bv_1olouu0",
+      "name": "收支",
+      "type": "singleSelect",
+      "required": false,
+      "width": 90,
+      "options": [
+        {
+          "id": "opt_mv6hh2bv_8ypst9b",
+          "name": "支出",
+          "color": "var(--color-red)"
+        },
+        {
+          "id": "opt_mv6hh2bv_r6dfi98",
+          "name": "收入",
+          "color": "var(--color-green)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mv6hh2bv_ndben9d",
+      "name": "分类",
+      "type": "singleSelect",
+      "required": false,
+      "width": 110,
+      "options": [
+        {
+          "id": "opt_mv6hh2bv_4t3thks",
+          "name": "餐饮",
+          "color": "var(--color-orange)"
+        },
+        {
+          "id": "opt_mv6hh2bv_lx23taz",
+          "name": "交通",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_mv6hh2bv_lwq6xk2",
+          "name": "购物",
+          "color": "var(--color-pink)"
+        },
+        {
+          "id": "opt_mv6hh2bv_aulhluk",
+          "name": "居住",
+          "color": "var(--color-purple)"
+        },
+        {
+          "id": "opt_mv6hh2bv_r24iq31",
+          "name": "娱乐",
+          "color": "var(--color-cyan)"
+        },
+        {
+          "id": "opt_mv6hh2bv_u3341pm",
+          "name": "医疗",
+          "color": "var(--color-red)"
+        },
+        {
+          "id": "opt_mv6hh2bv_onmw88c",
+          "name": "工资",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_mv6hh2bv_hudwlif",
+          "name": "其他",
+          "color": "var(--color-yellow)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mv6hh2bv_kbhthxx",
+      "name": "日期",
+      "type": "dateTime",
+      "width": 128
+    },
+    {
+      "id": "fld_mv6hh2bv_7n2fn61",
+      "name": "支付方式",
+      "type": "singleSelect",
+      "required": false,
+      "width": 110,
+      "options": [
+        {
+          "id": "opt_mv6hh2bv_6yb1lk0",
+          "name": "微信",
+          "color": "var(--color-green)"
+        },
+        {
+          "id": "opt_mv6hh2bv_22aw4ld",
+          "name": "支付宝",
+          "color": "var(--color-blue)"
+        },
+        {
+          "id": "opt_mv6hh2bv_4uzbcgy",
+          "name": "银行卡",
+          "color": "var(--color-purple)"
+        },
+        {
+          "id": "opt_mv6hh2bv_km7f93o",
+          "name": "现金",
+          "color": "var(--color-orange)"
+        }
+      ]
+    },
+    {
+      "id": "fld_mv6hh2bv_9dlxa5v",
+      "name": "收支额",
+      "type": "formula",
+      "description": "收入记正数、支出记负数，底部求和即为结余。",
+      "required": false,
+      "width": 120,
+      "formula": "if([收支] == \"收入\", [金额], 0 - [金额])",
+      "formulaResultType": "number"
+    },
+    {
+      "id": "fld_mv6hh2bv_l344vh4",
+      "name": "备注",
+      "type": "text",
+      "required": false,
+      "width": 180
+    }
+  ],
+  "views": [
+    {
+      "id": "view_mv6hh2bv_4li2mdv",
+      "name": "流水",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "type": "grid",
+      "rowHeight": "default",
+      "rowHeights": {},
+      "frozenFieldCount": 1,
+      "groupFieldId": null,
+      "groupBy": [],
+      "collapsedGroups": [],
+      "wrapText": false,
+      "columnSummaries": {
+        "fld_mv6hh2bv_9dlxa5v": "sum"
+      }
+    },
+    {
+      "id": "view_mv6hh2bv_uukt7uh",
+      "name": "本月支出",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_9dlxa5v"
+      ],
+      "sorts": [
+        {
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "direction": "desc"
+        }
+      ],
+      "filters": [
+        {
+          "fieldId": "fld_mv6hh2bv_1olouu0",
+          "op": "isAnyOf",
+          "value": "",
+          "values": [
+            "opt_mv6hh2bv_8ypst9b"
+          ]
+        },
+        {
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "op": "isThisMonth",
+          "value": ""
+        }
+      ],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "type": "grid",
+      "rowHeight": "default",
+      "rowHeights": {},
+      "frozenFieldCount": 1,
+      "groupFieldId": "fld_mv6hh2bv_ndben9d",
+      "groupBy": [
+        "fld_mv6hh2bv_ndben9d"
+      ],
+      "collapsedGroups": [],
+      "wrapText": false,
+      "columnSummaries": {
+        "fld_mv6hh2bv_9q52ckv": "sum"
+      }
+    },
+    {
+      "id": "view_mv6hh2bv_7ztx301",
+      "name": "日历",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "type": "calendar",
+      "dateFieldId": "fld_mv6hh2bv_kbhthxx",
+      "colorFieldId": "fld_mv6hh2bv_1olouu0",
+      "scheduleStartFieldId": "fld_mv6hh2bv_kbhthxx",
+      "scheduleEndFieldId": null,
+      "scheduleAllDayFieldId": null,
+      "scheduleDayCount": 7,
+      "scheduleSlotMinutes": 30,
+      "scheduleDefaultDurationMinutes": 60,
+      "scheduleStartHour": 8,
+      "titleFieldId": "fld_mv6hh2bv_2m2v10g",
+      "cardFieldIds": [
+        "fld_mv6hh2bv_9q52ckv"
+      ],
+      "month": "2026-10",
+      "displayMode": "month",
+      "anchorDate": "2026-10-13",
+      "taskDisplayMode": "flat",
+      "collapsedTaskRecordIds": []
+    },
+    {
+      "id": "view_mv6hh2bv_v2yg96i",
+      "name": "仪表盘",
+      "fieldOrder": [
+        "fld_mv6hh2bv_2m2v10g",
+        "fld_mv6hh2bv_9q52ckv",
+        "fld_mv6hh2bv_1olouu0",
+        "fld_mv6hh2bv_ndben9d",
+        "fld_mv6hh2bv_kbhthxx",
+        "fld_mv6hh2bv_7n2fn61",
+        "fld_mv6hh2bv_9dlxa5v",
+        "fld_mv6hh2bv_l344vh4"
+      ],
+      "hiddenFields": [],
+      "sorts": [],
+      "filters": [],
+      "filterConjunction": "and",
+      "colorRules": [],
+      "collapsedDetailGroups": [],
+      "type": "dashboard",
+      "widgets": [
+        {
+          "id": "wgt_mv6hh2bv_bu6xirh",
+          "kind": "number",
+          "title": "结余",
+          "sourceViewId": null,
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_9dlxa5v",
+          "summary": "sum",
+          "valueAggregate": "count",
+          "valueFieldId": null,
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 1,
+          "cardHeight": "compact",
+          "numberFormat": "auto"
+        },
+        {
+          "id": "wgt_mv6hh2bv_9opiqyq",
+          "kind": "number",
+          "title": "本月支出",
+          "sourceViewId": "view_mv6hh2bv_uukt7uh",
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_9q52ckv",
+          "summary": "sum",
+          "valueAggregate": "count",
+          "valueFieldId": null,
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 1,
+          "cardHeight": "compact",
+          "numberFormat": "auto"
+        },
+        {
+          "id": "wgt_mv6hh2bv_j6sl2m2",
+          "kind": "number",
+          "title": "记账笔数",
+          "sourceViewId": null,
+          "titlePosition": "top",
+          "fieldId": null,
+          "summary": "filled",
+          "valueAggregate": "count",
+          "valueFieldId": null,
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 1,
+          "cardHeight": "compact",
+          "numberFormat": "auto"
+        },
+        {
+          "id": "wgt_mv6hh2bv_7knyyht",
+          "kind": "pie",
+          "title": "本月消费结构",
+          "sourceViewId": "view_mv6hh2bv_uukt7uh",
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_ndben9d",
+          "summary": "filled",
+          "valueAggregate": "sum",
+          "valueFieldId": "fld_mv6hh2bv_9q52ckv",
+          "dateGranularity": "auto",
+          "sortOrder": "valueDesc",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 2,
+          "cardHeight": "standard",
+          "numberFormat": "auto"
+        },
+        {
+          "id": "wgt_mv6hh2bv_lvig5q8",
+          "kind": "line",
+          "title": "每日支出",
+          "sourceViewId": "view_mv6hh2bv_uukt7uh",
+          "titlePosition": "top",
+          "fieldId": "fld_mv6hh2bv_kbhthxx",
+          "summary": "filled",
+          "valueAggregate": "sum",
+          "valueFieldId": "fld_mv6hh2bv_9q52ckv",
+          "dateGranularity": "day",
+          "sortOrder": "source",
+          "limit": 0,
+          "showOther": true,
+          "includeEmpty": false,
+          "showMovingAverage": false,
+          "columnSpan": 2,
+          "cardHeight": "large",
+          "numberFormat": "auto"
+        }
+      ],
+      "layoutPreset": "4x4"
+    }
+  ],
+  "activeViewId": "view_mv6hh2bv_4li2mdv",
+  "titleFieldId": "fld_mv6hh2bv_2m2v10g",
+  "meta": {
+    "createdAt": "2026-10-13T09:33:29.227Z",
+    "updatedAt": "2026-10-13T17:57:40.456Z",
+    "revision": 17,
+    "writerVersion": 22
+  },
+  "fieldRoles": {
+    "fields": {
+      "notes": "fld_mv6hh2bv_l344vh4"
+    }
+  },
+  "templateOrigin": {
+    "templateId": "budget",
+    "templateName": "记账本",
+    "createdAt": "2026-10-13T09:33:29.227Z",
+    "sampleRecordIds": [],
+    "guideDismissed": true
+  },
+  "records": [
+    {
+      "id": "rec_mv6id5p4_tg5xlc2",
+      "revision": 1,
+      "syncUid": "sync_mv6id5p4_6kpbf9q",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:58:26.584Z",
+      "updatedAt": "2026-10-13T09:58:26.584Z"
+    },
+    {
+      "id": "rec_mv6idgee_padcxmg",
+      "revision": 1,
+      "syncUid": "sync_mv6idgee_twljkdr",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:58:40.454Z",
+      "updatedAt": "2026-10-13T09:58:40.454Z"
+    },
+    {
+      "id": "rec_mv6zelqd_yo8ypm0",
+      "revision": 1,
+      "syncUid": "sync_mv6zelqd_5ajycfa",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T17:55:27.493Z",
+      "updatedAt": "2026-10-13T17:55:27.494Z"
+    },
+    {
+      "id": "rec_mv6zhgbr_gjzww8n",
+      "revision": 1,
+      "syncUid": "sync_mv6zhgbr_c3js329",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T17:57:40.455Z",
+      "updatedAt": "2026-10-13T17:57:40.456Z"
+    }
+  ]
+}
