@@ -188,6 +188,17 @@
       "notePath": null,
       "createdAt": "2026-10-13T17:57:40.455Z",
       "updatedAt": "2026-10-13T17:57:40.456Z"
+    },
+    {
+      "id": "rec_mv8g7jag_izw6jpq",
+      "revision": 1,
+      "syncUid": "sync_mv8g7jag_72gd20l",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-14T18:33:37.384Z",
+      "updatedAt": "2026-10-14T18:33:37.386Z"
     }
   ],
   "views": [
@@ -445,8 +456,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T19:37:52.392Z",
-    "revision": 21,
+    "updatedAt": "2026-10-14T18:33:37.386Z",
+    "revision": 22,
     "writerVersion": 22
   },
   "fieldRoles": {
