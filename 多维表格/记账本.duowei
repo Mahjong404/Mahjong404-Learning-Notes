@@ -94,6 +94,7 @@
       "id": "fld_mv6hh2bv_kbhthxx",
       "name": "日期",
       "type": "dateTime",
+      "required": false,
       "width": 128
     },
     {
@@ -141,6 +142,52 @@
       "type": "text",
       "required": false,
       "width": 180
+    }
+  ],
+  "records": [
+    {
+      "id": "rec_mv6id5p4_tg5xlc2",
+      "revision": 1,
+      "syncUid": "sync_mv6id5p4_6kpbf9q",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:58:26.584Z",
+      "updatedAt": "2026-10-13T09:58:26.584Z"
+    },
+    {
+      "id": "rec_mv6idgee_padcxmg",
+      "revision": 1,
+      "syncUid": "sync_mv6idgee_twljkdr",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T09:58:40.454Z",
+      "updatedAt": "2026-10-13T09:58:40.454Z"
+    },
+    {
+      "id": "rec_mv6zelqd_yo8ypm0",
+      "revision": 1,
+      "syncUid": "sync_mv6zelqd_5ajycfa",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T17:55:27.493Z",
+      "updatedAt": "2026-10-13T17:55:27.494Z"
+    },
+    {
+      "id": "rec_mv6zhgbr_gjzww8n",
+      "revision": 1,
+      "syncUid": "sync_mv6zhgbr_c3js329",
+      "values": {
+        "fld_mv6hh2bv_9dlxa5v": 0
+      },
+      "notePath": null,
+      "createdAt": "2026-10-13T17:57:40.455Z",
+      "updatedAt": "2026-10-13T17:57:40.456Z"
     }
   ],
   "views": [
@@ -398,8 +445,8 @@
   "titleFieldId": "fld_mv6hh2bv_2m2v10g",
   "meta": {
     "createdAt": "2026-10-13T09:33:29.227Z",
-    "updatedAt": "2026-10-13T17:57:40.456Z",
-    "revision": 17,
+    "updatedAt": "2026-10-13T19:37:52.392Z",
+    "revision": 21,
     "writerVersion": 22
   },
   "fieldRoles": {
@@ -413,51 +460,5 @@
     "createdAt": "2026-10-13T09:33:29.227Z",
     "sampleRecordIds": [],
     "guideDismissed": true
-  },
-  "records": [
-    {
-      "id": "rec_mv6id5p4_tg5xlc2",
-      "revision": 1,
-      "syncUid": "sync_mv6id5p4_6kpbf9q",
-      "values": {
-        "fld_mv6hh2bv_9dlxa5v": 0
-      },
-      "notePath": null,
-      "createdAt": "2026-10-13T09:58:26.584Z",
-      "updatedAt": "2026-10-13T09:58:26.584Z"
-    },
-    {
-      "id": "rec_mv6idgee_padcxmg",
-      "revision": 1,
-      "syncUid": "sync_mv6idgee_twljkdr",
-      "values": {
-        "fld_mv6hh2bv_9dlxa5v": 0
-      },
-      "notePath": null,
-      "createdAt": "2026-10-13T09:58:40.454Z",
-      "updatedAt": "2026-10-13T09:58:40.454Z"
-    },
-    {
-      "id": "rec_mv6zelqd_yo8ypm0",
-      "revision": 1,
-      "syncUid": "sync_mv6zelqd_5ajycfa",
-      "values": {
-        "fld_mv6hh2bv_9dlxa5v": 0
-      },
-      "notePath": null,
-      "createdAt": "2026-10-13T17:55:27.493Z",
-      "updatedAt": "2026-10-13T17:55:27.494Z"
-    },
-    {
-      "id": "rec_mv6zhgbr_gjzww8n",
-      "revision": 1,
-      "syncUid": "sync_mv6zhgbr_c3js329",
-      "values": {
-        "fld_mv6hh2bv_9dlxa5v": 0
-      },
-      "notePath": null,
-      "createdAt": "2026-10-13T17:57:40.455Z",
-      "updatedAt": "2026-10-13T17:57:40.456Z"
-    }
-  ]
+  }
 }
