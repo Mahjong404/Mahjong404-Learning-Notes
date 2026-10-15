@@ -107,6 +107,14 @@
           "color": "var(--color-red)"
         }
       ]
+    },
+    {
+      "id": "fld_mv9vz229_ghbhc46",
+      "name": "新字段",
+      "type": "relation",
+      "width": 180,
+      "relationCardinality": "one",
+      "relationTargetPath": "多维表格/记账本.duowei"
     }
   ],
   "views": [
@@ -118,7 +126,8 @@
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
         "fld_mus0icjg_8h3s7ev",
-        "fld_muvbkbib_vpf02j0"
+        "fld_muvbkbib_vpf02j0",
+        "fld_mv9vz229_ghbhc46"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -144,7 +153,8 @@
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
         "fld_mus0icjg_8h3s7ev",
-        "fld_muvbkbib_vpf02j0"
+        "fld_muvbkbib_vpf02j0",
+        "fld_mv9vz229_ghbhc46"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -168,7 +178,8 @@
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
         "fld_mus0icjg_8h3s7ev",
-        "fld_muvbkbib_vpf02j0"
+        "fld_muvbkbib_vpf02j0",
+        "fld_mv9vz229_ghbhc46"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -195,7 +206,8 @@
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
         "fld_mus0icjg_8h3s7ev",
-        "fld_muvbkbib_vpf02j0"
+        "fld_muvbkbib_vpf02j0",
+        "fld_mv9vz229_ghbhc46"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -232,7 +244,8 @@
         "fld_mu18c0oy_n9itrmk",
         "fld_mu18c0oy_dgnsbqm",
         "fld_mus0icjg_8h3s7ev",
-        "fld_muvbkbib_vpf02j0"
+        "fld_muvbkbib_vpf02j0",
+        "fld_mv9vz229_ghbhc46"
       ],
       "hiddenFields": [],
       "sorts": [],
@@ -259,8 +272,8 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-15T17:50:50.027Z",
-    "revision": 32,
+    "updatedAt": "2026-10-15T18:42:41.842Z",
+    "revision": 33,
     "writerVersion": 22
   },
   "records": [
