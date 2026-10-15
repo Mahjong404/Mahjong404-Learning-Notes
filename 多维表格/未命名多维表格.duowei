@@ -272,14 +272,14 @@
   "activeViewId": "view_mu18c0oy_rt1e2ij",
   "meta": {
     "createdAt": "2026-09-14T12:39:04.066Z",
-    "updatedAt": "2026-10-15T18:42:41.842Z",
-    "revision": 33,
+    "updatedAt": "2026-10-15T18:42:53.663Z",
+    "revision": 34,
     "writerVersion": 22
   },
   "records": [
     {
       "id": "rec_mu1kn8lr_qm84wan",
-      "revision": 2,
+      "revision": 3,
       "syncUid": "sync_mu1kn8lr_x2orce5",
       "values": {
         "fld_mu18c0oy_dgnsbqm": true,
@@ -288,11 +288,14 @@
         "fld_mus0icjg_8h3s7ev": [
           "opt_mus0j00c_84dm1x9"
         ],
-        "fld_muvbkbib_vpf02j0": "opt_muvbmzrw_ga0pwru"
+        "fld_muvbkbib_vpf02j0": "opt_muvbmzrw_ga0pwru",
+        "fld_mv9vz229_ghbhc46": [
+          "rec_mv6id5p4_tg5xlc2"
+        ]
       },
       "notePath": null,
       "createdAt": "2026-09-14T18:23:42.927Z",
-      "updatedAt": "2026-10-14T18:33:18.914Z"
+      "updatedAt": "2026-10-15T18:42:53.663Z"
     },
     {
       "id": "rec_mu59ujk7_1bswadz",
