@@ -1,0 +1,41 @@
+- ‌‌‌<font color="#f79646">含义：神经节</font>
+- ‌‌‌<font color="#f79646">变体：ganglio</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词ganglion（意为knot或swelling，即结节或肿胀）</font>
+- ‌‌‌<font color="#f79646">用途：构成神经节相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**ganglia**</font> n. 神经节；神经中枢
+
+<font color="sky blue">**ganglion**</font> n. 神经节（一簇神经细胞或一组细胞，类似于一个结或凸点）
+
+<font color="sky blue">**suprarenal ganglion**</font> 肾上腺神经节（位于肾上腺附近的一组神经细胞）
+
+<font color="sky blue">**paravertebral ganglion**</font> 椎旁神经节（位于脊髓附近的神经细胞群）
+
+<font color="sky blue">**cervicothoracic ganglion**</font> 颈胸神经节（位于颈部和上背部的一组神经细胞）
+
+<font color="sky blue">**prevertebral ganglion**</font> 椎前神经节（位于脊柱前方的神经细胞群）
+
+<font color="sky blue">**intramural ganglion**</font> 壁内神经节（位于消化道等器官壁内的神经细胞群）
+
+<font color="sky blue">**sympathetic ganglion**</font> 交感神经节（构成交感神经系统一部分的神经细胞群，它控制着不自主的身体功能，如心率和消化）
+
+<font color="sky blue">**gangliocytic**</font> adj. 神经节细胞的
+
+<font color="sky blue">**ganglioside**</font> n. 神经节苷脂（在神经细胞和其他组织中发现的一种分子类型）
+
+<font color="sky blue">**ganglionopathy**</font> n. 神经节病变（一种影响神经节或神经细胞群的疾病，遍及全身）
+
+<font color="sky blue">**ganglion cyst**</font> 神经节囊肿（在关节或肌腱表面形成的充满液体的囊，通常在手或腕部）
+
+<font color="sky blue">**ganglionitis**</font> n. 神经节炎
+
+<font color="sky blue">**ganglioma**</font> n. 神经节瘤
+
+<font color="sky blue">**gangliocytoma**</font> n. 神经节细胞瘤（一种起源于神经节细胞的肿瘤，通常是良性的，生长缓慢）
+
+<font color="sky blue">**ganglionectomy**</font> n. 神经节截除术
+

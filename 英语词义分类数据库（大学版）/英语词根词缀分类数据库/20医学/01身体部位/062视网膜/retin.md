@@ -1,0 +1,43 @@
+- ‌‌‌<font color="#f79646">含义：视网膜</font>
+- ‌‌‌<font color="#f79646">变体：retino</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词retina（意为net或network，即网络）</font>
+- ‌‌‌<font color="#f79646">用途：构成视网膜相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**retina**</font> n. 视网膜（眼睛后面的感光组织层，将光转化为神经信号，并将其送入大脑，以获得视觉感受） 
+
+<font color="sky blue">**retinal**</font> adj. 视网膜的
+
+<font color="sky blue">**retinacular**</font> adj. 与将视网膜固定在眼内的细纤维带有关的
+
+<font color="sky blue">**retinocerebral**</font> adj. 与视网膜和大脑有关的
+
+<font color="sky blue">**Retinal ganglion cells**</font> 视网膜神经节细胞 
+
+<font color="sky blue">**chorioretinal**</font> adj. 脉络膜视网膜的
+
+<font color="sky blue">**retinometer**</font> n. 视网膜计（用于测量视网膜的折射率的仪器）
+
+<font color="sky blue">**electroretinography**</font> n. 视网膜电图；视网膜电描记法
+
+<font color="sky blue">**retinol**</font> n. 松香油；维生素A；视黄醇
+
+<font color="sky blue">**retinopathy**</font> n. 视网膜病变（是一个统称，视网膜的任何疾病都可称为retinopathy）
+
+<font color="sky blue">**vitreoretinopathy**</font> n. 玻璃体视网膜病变
+
+<font color="sky blue">**retinitis pigmentosa**</font> 色素性视网膜炎（一组遗传性疾病，会导致视网膜进行性变性，从而导致视力下降和失明）
+
+<font color="sky blue">**retinoblastoma**</font> n. 眼癌（一种罕见的视网膜癌症，通常在儿童早期发病，如果不及时治疗，会导致视力丧失或失明，该病具有遗传性）
+
+<font color="sky blue">**retinal detachment**</font> 视网膜脱离（一种视网膜与底层支持组织分离的情况，通常由创伤、受伤或潜在的疾病引起）
+
+<font color="sky blue">**retinal pigment epithelium detachment**</font> 视网膜色素上皮剥离
+
+<font color="sky blue">**retinal vein occlusion**</font> 视网膜静脉阻塞（一种将血液带离视网膜的静脉被堵塞的情况，导致视力丧失或其他并发症）
+
+<font color="sky blue">**retinal tear**</font> 视网膜撕裂；视网膜穿孔（视网膜上的一个小裂口或洞，通常由受伤引起）
+

@@ -1,0 +1,40 @@
+- ‌‌‌<font color="#f79646">含义：嘴唇</font>
+- ‌‌‌<font color="#f79646">变体：labio</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词labium（意为lip，即嘴唇）</font>
+- ‌‌‌<font color="#f79646">用途：构成唇形结构相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**labium**</font> n. 人体的各种唇形结构，如嘴唇
+
+<font color="sky blue">**labia**</font> n. 下唇；（无脊椎动物的）唇状部分；下唇瓣
+
+<font color="sky blue">**labial**</font> adj. 唇的；唇音的 n. 唇音
+
+<font color="sky blue">**labiopalatine**</font> adj. 与嘴唇和上颚有关的
+
+<font color="sky blue">**labiomental**</font> adj. 与嘴唇和下巴有关的
+
+<font color="sky blue">**labioglossal**</font> adj. 与嘴唇和舌头有关的
+
+<font color="sky blue">**labiodental**</font> adj. 与嘴唇和牙齿有关的
+
+<font color="sky blue">**dentilabial**</font> adj. 唇齿音的
+
+<font color="sky blue">**labionasal**</font> adj. 唇鼻音的 n. 唇鼻音（如m）
+
+<font color="sky blue">**labiomancy**</font> n. 唇读（即通过解释一个人的嘴唇形状和运动来进行占卜，是一种占卜形式）
+
+<font color="sky blue">**labiomental groove**</font> 唇齿沟（即嘴唇和下巴之间的自然褶皱）
+
+<font color="sky blue">**labial herpes**</font> 口唇疱疹（一种病毒感染，导致嘴唇上或周围出现冷疮或水泡）
+
+<font color="sky blue">**labioplasty**</font> n. 唇部整形术 
+
+
+<font color="sky blue">**unilabiate**</font> adj.（生物）单唇的，有单唇的
+
+<font color="sky blue">**bilabiate**</font> adj.（植物）二唇的，有两唇的
+

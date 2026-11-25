@@ -1,0 +1,21 @@
+- ‌‌‌<font color="#f79646">含义：大母脚趾</font>
+- ‌‌‌<font color="#f79646">变体：无</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词hallus（意为thumb或big toe，即拇指或大母脚趾）</font>
+- ‌‌‌<font color="#f79646">用途：构成大母脚趾相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**hallux**</font> n.（人的）大拇趾（即最大的脚趾）；（鸟的）后趾    
+
+<font color="sky blue">**hallucal**</font> adj. 拇趾的 
+
+<font color="sky blue">**hallux malleus**</font> n. 槌状拇 
+
+<font color="sky blue">**hallux rigidus**</font> 拇强直；拇趾僵硬（大脚趾关节变得僵硬和疼痛的一种情况，通常由关节炎引起）
+
+<font color="sky blue">**hallux valgus**</font> 大脚趾外翻（大脚趾偏离足部中线，导致大脚趾外翻的一种情况）
+
+<font color="sky blue">**hallux limitus**</font> 大脚趾关节活动受限（通常由关节炎或受伤引起）
+

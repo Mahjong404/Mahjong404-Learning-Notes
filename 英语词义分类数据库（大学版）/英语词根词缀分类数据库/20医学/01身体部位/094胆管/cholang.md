@@ -1,0 +1,41 @@
+- ‌‌‌<font color="#f79646">含义：胆管</font>
+- ‌‌‌<font color="#f79646">变体：cholange, cholangi, cholangio</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词chole（意为bile，即胆汁）和希腊单词angeion（意为vessel，即血管）</font>
+- ‌‌‌<font color="#f79646">用途：构成胆管相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**cholangiole**</font> n. 毛细胆管
+
+<font color="sky blue">**cholangiopathy**</font> n. 胆管病（是一种统称，包括任何影响胆管的疾病，如胆管癌或原发性硬化性胆管炎）
+
+<font color="sky blue">**cholangitis**</font> n. 胆管炎（胆管的炎症，通常由细菌感染或梗阻引起）
+
+<font color="sky blue">**cholangiolitis**</font> n. 胆小管炎（肝脏内小导管的炎症，这些小导管将胆汁从肝细胞输送到胆管）
+
+<font color="sky blue">**cholangiohepatitis**</font> n. 胆管肝炎
+
+<font color="sky blue">**cholangiohepatoma**</font> n. 胆管肝细胞瘤
+
+<font color="sky blue">**cholangioma**</font> n. 胆管瘤
+
+<font color="sky blue">**cholangiocarcinoma**</font> n. 胆管癌
+
+<font color="sky blue">**cholangiectasia**</font> n. 胆管扩张症
+
+<font color="sky blue">**cholangiogram**</font> n. 胆管造影 
+
+<font color="sky blue">**cholangiography**</font> n. 胆管造影术
+
+<font color="sky blue">**cholangiopancreatography**</font> n. 胆管胰腺造影术
+
+<font color="sky blue">**cholangiocatheter**</font> n. 胆管导管（一种插入胆管的医疗设备，用于引流胆汁或清除阻塞物）
+
+<font color="sky blue">**cholangioscopy**</font> n. 胆管窥镜检查
+
+<font color="sky blue">**cholangiotomy**</font> n. 胆管切开术（进入胆管的手术切口，通常用于清除结石或其他阻塞物）
+
+<font color="sky blue">**cholangioplasty**</font> n. 胆管成形术（对狭窄或堵塞的胆管进行拓宽或重建的外科手术，通常是为了改善胆汁流动） 
+

@@ -1,0 +1,19 @@
+- ‌‌‌<font color="#f79646">含义：胼胝</font>
+- ‌‌‌<font color="#f79646">变体：tylo</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词tulós（意为swelling或protuberance，即肿胀或突起）</font>
+- ‌‌‌<font color="#f79646">用途：构成胼胝相关词汇（生物学中常见，医学中不常见）</font>
+
+
+---
+
+
+<font color="sky blue">**tyloma**</font> n. 胼胝（皮肤上增厚的、有茧的区域）
+
+<font color="sky blue">**tylosis**</font> n. 手掌和脚底的皮肤增厚
+
+<font color="sky blue">**tylopod**</font> n. 偶蹄类动物（包括骆驼、美洲鸵和羊驼）
+
+<font color="sky blue">**Tylopoda**</font> n. 胼足亚目
+
+<font color="sky blue">**Tylosaurus**</font> n. 海王龙属；长喙龙
+

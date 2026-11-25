@@ -1,0 +1,15 @@
+- ‌‌‌<font color="#f79646">含义：咽峡</font>
+- ‌‌‌<font color="#f79646">变体：isthmo</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词isthmos（意为a narrow passage or neck of land connecting two larger bodies of land，即狭长的通道或连接两个较大的陆地的一个颈状狭长地带）</font>
+- ‌‌‌<font color="#f79646">用途：构成咽峡相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**isthmoparalysis**</font> n. 咽峡麻痹（咽峡的肌肉瘫痪，可导致吞咽困难）
+
+<font color="sky blue">**isthmoplegia**</font> n. 咽峡麻痹
+
+<font color="sky blue">**isthmospasm**</font> n. 咽峡痉挛
+

@@ -1,0 +1,31 @@
+- ‌‌‌<font color="#f79646">含义：肘</font>
+- ‌‌‌<font color="#f79646">变体：无</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词ankon（意为elbow，即肘）</font>
+- ‌‌‌<font color="#f79646">用途：构成肘部相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**ancon**</font> n. 肘
+
+<font color="sky blue">**anconeal**</font> adj. 肘的
+
+<font color="sky blue">**anconal**</font> adj. 肘的，与肘有关的
+
+<font color="sky blue">**anconoid**</font> adj. 肘样的；肘状的
+
+<font color="sky blue">**anconeus**</font> n. 肘肌
+
+<font color="sky blue">**anconeus muscle syndrome**</font> 肘部肌肉综合征（当尺神经通过肘关节时，肘肌压迫尺神经，引起手和前臂的疼痛、麻木和刺痛的情况）
+
+<font color="sky blue">**anconeus muscle injury**</font> 肘肌损伤
+
+<font color="sky blue">**anconeus muscle pain**</font> 肘肌疼痛
+
+<font color="sky blue">**anconeus muscle spasm**</font> 肘肌痉挛 
+
+<font color="sky blue">**anconeus muscle weakness**</font> 肘肌无力
+
+<font color="sky blue">**anconagra**</font> n. 肘痛风症
+

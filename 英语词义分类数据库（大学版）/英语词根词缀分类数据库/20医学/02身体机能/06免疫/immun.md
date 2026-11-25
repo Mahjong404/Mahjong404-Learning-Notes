@@ -1,0 +1,43 @@
+- ‌‌‌<font color="#f79646">含义：免疫</font>
+- ‌‌‌<font color="#f79646">变体：immuno</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词immunis（意为"exempt or free" from something，即不受…影响）</font>
+- ‌‌‌<font color="#f79646">用途：构成免疫相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**immune system**</font> 免疫系统
+
+<font color="sky blue">**immunology**</font> n. 免疫学
+
+<font color="sky blue">**immunogenetics**</font> n. 免疫遗传学（对免疫系统及其功能的遗传基础的研究）
+
+<font color="sky blue">**immunohistochemistry**</font> n. 免疫组织化学（一种实验室技术，使用抗体检测组织中的特定蛋白质）  
+
+<font color="sky blue">**immunodeficiency**</font> n. 免疫缺陷（免疫系统不能保护身体免受感染和疾病侵害）
+
+<font color="sky blue">**immunosuppressant**</font> n. 免疫抑制剂（抑制或削弱免疫系统的一种药物）
+
+<font color="sky blue">**immunomodulator**</font> n. 免疫调变剂（能够改变或调节免疫系统对某些疾病的反应的药物） 
+
+<font color="sky blue">**immunotherapy**</font> n. 免疫疗法（利用免疫系统来对抗癌症或其他疾病的一种治疗方法）
+
+<font color="sky blue">**immunoglobulin**</font> n. 免疫血球素，免疫球蛋白（由免疫系统产生的一种蛋白质，有助于抵御感染和疾病）
+
+<font color="sky blue">**immunocompromised**</font> adj. 免疫系统受损伤（或被削弱）的
+
+<font color="sky blue">**immunization**</font> n. 免疫（通过注射疫苗使人对某种特定疾病产生免疫力的过程）
+
+<font color="sky blue">**immunocompetent**</font> n. 免疫活性的（即具有免疫系统的功能和效用的）
+
+<font color="sky blue">**immunoproteins**</font> n. 免疫蛋白，免疫蛋白质（由免疫系统产生的、有助于抵御感染和疾病的蛋白质）           
+
+<font color="sky blue">**immunostaining**</font> n. 免疫染色（一种实验室技术，使用抗体检测组织或细胞中的特定分子或细胞）          
+
+<font color="sky blue">**immunosensor**</font> n. 免疫传感器（一种生物传感器，使用抗体检测并测量生物样本中特定分子或细胞的存在
+
+<font color="sky blue">**electroimmunodiffusion**</font> n. 电免疫扩散法
+
+<font color="sky blue">**immunodiagnosis**</font> n. 免疫诊断
+

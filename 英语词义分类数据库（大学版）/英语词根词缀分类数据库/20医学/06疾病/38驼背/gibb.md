@@ -1,0 +1,43 @@
+- ‌‌‌<font color="#f79646">含义：驼背</font>
+- ‌‌‌<font color="#f79646">变体：gibbo</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词gibbus（意为hump或swelling，即驼背或隆起）</font>
+- ‌‌‌<font color="#f79646">用途：构成驼背的相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**gibbus**</font> n. 驼背
+
+<font color="sky blue">**gibbosity**</font> n. 突起（有驼峰或圆形突起的一种状态）
+
+<font color="sky blue">**gibbous**</font> adj. 突起的；凸圆的；驼背的
+
+<font color="sky blue">**gibbous deformity**</font> 驼背畸形（脊柱的异常弯曲导致驼背）
+
+<font color="sky blue">**gibbus tuberculosis**</font> 脊柱结核（一种影响脊柱的结核病，引起驼背）
+
+<font color="sky blue">**gibbous angle**</font> 驼背角（在驼背症的情况下，脊柱弯曲所形成的角度）
+
+<font color="sky blue">**gibbous posture**</font> 驼背的姿势（上背部过分圆润或向前驼背的姿势）
+
+<font color="sky blue">**gibbous spine**</font> 凸脊（脊柱弯曲如驼峰或圆形突起）
+
+<font color="sky blue">**gibbous thoracic spine**</font> 胸椎隆起（脊柱的上部弯曲如驼峰或圆形突起的部分）
+
+<font color="sky blue">**gibbous lumbar spine**</font> 腰椎隆起（脊柱的下部弯曲如驼峰或圆形突起的部分）
+
+<font color="sky blue">**gibbous scoliosis**</font> 脊柱侧弯（脊柱既弯曲又扭曲的一种类型，导致驼峰或驼背）
+
+<font color="sky blue">**gibbous kyphosis**</font> 脊柱后凸（脊柱过度弯曲，造成驼背或圆润的突起）
+
+<font color="sky blue">**gibbous lordosis**</font> 脊柱前弯症（腰部过度弯曲，导致驼背或圆形突起）
+
+<font color="sky blue">**gibbous vertebrae**</font> 弯曲如驼峰或圆形突起的椎体
+
+<font color="sky blue">**gibbous syndrome**</font> 驼背综合征（一种罕见的遗传性疾病，其特点是骨骼发育异常，导致驼背）
+
+<font color="sky blue">**gibbus deformity correction**</font> 驼背畸形矫正术
+
+<font color="sky blue">**gibbectomy**</font> n. 驼背切除术
+

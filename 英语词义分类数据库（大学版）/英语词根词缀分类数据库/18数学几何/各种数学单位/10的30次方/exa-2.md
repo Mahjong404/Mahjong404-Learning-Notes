@@ -1,0 +1,5 @@
+<font color="#f79646">含义：10<sup>30</sup></font>
+<font color="#f79646">变体：无</font>
+<font color="#f79646">来源：希腊单词hex（意为six，即六）</font>
+<font color="#f79646">用途：构成10<sup>30</sup>相关词汇</font>
+<font color="#f79646">补充说明：为英制、法制和德制单位，对应的美制和加制单位用词为nonillion</font>

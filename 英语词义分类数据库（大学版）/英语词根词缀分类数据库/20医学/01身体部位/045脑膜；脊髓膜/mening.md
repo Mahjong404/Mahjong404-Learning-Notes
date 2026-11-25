@@ -1,0 +1,35 @@
+- ‌‌‌<font color="#f79646">含义：脑膜；脊髓膜</font>
+- ‌‌‌<font color="#f79646">变体：meninge, meningeo, meningi, meningo</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词meninx（意为membrane，即膜）</font>
+- ‌‌‌<font color="#f79646">用途：构成脑（脊）膜相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**meninges**</font> n. 脑膜；脑脊膜
+
+<font color="sky blue">**meningeal**</font> adj. 脑（脊）膜的
+
+<font color="sky blue">**meningothelial cell**</font>  脑（脊）膜外皮细胞（一种排列在脑膜上的细胞，有助于支持和保护大脑和脊髓）
+
+<font color="sky blue">**meningitis**</font> n. 脑膜炎
+
+<font color="sky blue">**meningoencephalitis**</font> n. 脑膜脑炎（脑膜和大脑本身的炎症，常常由感染引起）
+
+<font color="sky blue">**meningoencephalomyelitis**</font> n. 脑膜脑脊髓炎（脑膜、大脑和脊髓的炎症，通常由自身免疫性疾病或感染引起）
+
+<font color="sky blue">**meningism**</font> n. 假性脑（脊）膜炎（一系列看似脑膜炎的症状，包括头痛、颈部僵硬和发烧，但实际上脑膜没发炎）
+
+<font color="sky blue">**meningioma**</font> n. 脑（脊）膜瘤
+
+<font color="sky blue">**meningiomatosis**</font> n. 多发性脑（脊）膜瘤，脑（脊）膜（纤维）瘤病
+
+<font color="sky blue">**meningocele**</font> n. 脑（脊）膜突出（一种出生缺陷，部分脑膜通过颅骨或脊柱的缺陷突出）
+
+<font color="sky blue">**meningoencephalocele**</font> n. 脑膜脑膨出（一种更严重的神经管缺陷，脑膜和脑组织通过颅骨或脊柱缺陷突出）
+
+<font color="sky blue">**meningococcus**</font> n. 脑膜炎球菌
+
+<font color="sky blue">**meningocele repair**</font> 脑（脊）膜突出修复术
+

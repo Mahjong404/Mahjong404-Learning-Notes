@@ -1,0 +1,45 @@
+- ‌‌‌<font color="#f79646">含义：胆汁</font>
+- ‌‌‌<font color="#f79646">变体：bili</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词bilis（意为bile，即胆汁）</font>
+- ‌‌‌<font color="#f79646">用途：构成胆汁相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**bile**</font> n. 胆汁（由肝脏产生的一种液体，有助于脂肪的消化）
+
+<font color="sky blue">**bile duct**</font> 胆管（将胆汁从肝脏输送到小肠的管道）
+
+<font color="sky blue">**biliary tract**</font> 胆道（将胆汁从肝脏输送到小肠的管道网络）
+
+<font color="sky blue">**bile acid**</font> 胆汁酸（一种存在于胆汁中的酸，有助于脂肪的消化和吸收）
+
+<font color="sky blue">**bilirubin**</font> n. 胆红素（由红细胞中的血红蛋白分解产生的一种黄色色素，在胆汁中排泄）
+
+<font color="sky blue">**biliverdin**</font> n. 胆绿素（在血红素分解过程中产生的一种绿色色素）
+
+<font color="sky blue">**biliary**</font> n. 胆汁的；（胆管）输送胆汁的
+
+<font color="sky blue">**biliation**</font> n. 胆汁分泌
+
+<font color="sky blue">**bile secretion**</font> 胆汁分泌（即肝脏产生和释放胆汁）
+
+<font color="sky blue">**bile reflux**</font> 胆汁反流（胆汁从小肠倒流到胃或食道）
+
+<font color="sky blue">**bile stasis**</font> 胆汁淤积（胆汁流动减慢或受阻的一种情况，通常导致胆结石的形成）
+
+<font color="sky blue">**biliary atresia**</font> 胆道闭锁（一种罕见病，胆管缺失或堵塞，导致肝脏损伤和衰竭）
+
+<font color="sky blue">**biliary colic**</font> 胆绞痛（由胆管堵塞引起的一种腹痛）
+
+<font color="sky blue">**biloma**</font> n. 胆汁瘤（胆管外的胆汁聚集，通常是受伤或手术的结果）
+
+<font color="sky blue">**bilirubinemia**</font> n. 胆红素血症（血液中胆红素水平的异常增加）
+
+<font color="sky blue">**bilirubinuria**</font> n. 胆红素尿症（尿液中出现胆红素，通常表明肝脏或胆囊出现病症）
+
+<font color="sky blue">**atrabiliary**</font> adj. 黑胆质的;；忧郁质的；有疑心病的
+
+<font color="sky blue">**atrabilious**</font> adj. 抑郁的；暴躁的
+

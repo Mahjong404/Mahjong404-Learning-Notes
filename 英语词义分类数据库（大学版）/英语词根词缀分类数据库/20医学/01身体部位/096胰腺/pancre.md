@@ -1,0 +1,47 @@
+- ‌‌‌<font color="#f79646">含义：胰腺</font>
+- ‌‌‌<font color="#f79646">变体：pancreo, pancreat, pancreato, pancreatic, pancreatico</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词pankreas（意为sweetbread，即甜面包）</font>
+- ‌‌‌<font color="#f79646">用途：构成胰腺相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**pancreatic enzymes**</font> 胰腺酶（胰腺产生的酶，如淀粉酶、脂肪酶和蛋白酶，它们参与碳水化合物、脂肪和蛋白质的消化）
+
+<font color="sky blue">**pancreatic juice**</font> 胰液（胰腺产生的一种液体，含有消化酶和碳酸氢盐，可中和小肠内来自胃的酸性食糜）
+
+<font color="sky blue">**pancreatic lipase**</font> 胰脂肪酶（胰腺产生的一种酶，将脂肪分解成脂肪酸和甘油，由小肠吸收）
+
+<font color="sky blue">**pancreatic acinar cell**</font> 胰腺腺泡细胞（胰腺中的一种细胞，产生和分泌消化酶）
+
+<font color="sky blue">**pancreatitis**</font> n. 胰腺炎（胰腺的炎症，可由各种因素引起，包括饮酒、胆结石或甘油三酯水平超标）
+
+<font color="sky blue">**pancreatic cancer**</font> 胰腺癌
+
+<font color="sky blue">**pancreatic duct**</font> 胰腺管（ 将消化酶和胰液从胰腺输送到十二指肠的管道，十二指肠是小肠的第一部分）
+
+<font color="sky blue">**pancreatic islet cell tumor**</font> 胰岛细胞肿瘤（一种起源于胰岛细胞的肿瘤，胰岛细胞产生胰岛素和胰高血糖素等荷尔蒙）
+
+<font color="sky blue">**pancreatic polyp**</font> 胰腺息肉（胰腺中的一个小生长物或肿块，可能是良性或恶性的，可引起各种症状）
+
+<font color="sky blue">**pancreatogenic diabetes**</font> 胰源性糖尿病（由胰腺受损引起，导致胰岛素生产细胞的缺乏）
+
+<font color="sky blue">**pancreatic pseudocyst**</font> 胰腺假性囊肿（胰腺炎发作后在胰腺中形成的液体和组织碎片的集合，可引起疼痛和其他症状）
+
+<font color="sky blue">**pancreatoblastoma**</font> n. 胰母细胞瘤（一种发生在儿童和年轻人身上的罕见的胰腺癌类型，其特征是类似于胚胎胰腺细胞的异常生长）
+
+<font color="sky blue">**angiopancreatitis**</font> n. 胰血管炎
+
+<font color="sky blue">**hypopancreorrhea**</font> n. 胰液分泌过少
+
+<font color="sky blue">**pancreatoxic**</font> adj. 对胰腺有毒性的
+
+<font color="sky blue">**cholangiopancreatography**</font> n. 胆管胰造影术
+
+<font color="sky blue">**pancreatojejunostomy**</font> n. 胰腺空肠吻合术（将胰腺与空肠相连，通常用于缓解胰腺导管阻塞，空肠即小肠的第二部分）
+
+<font color="sky blue">**pancreaticoduodenectomy**</font> n. 胰腺十二指肠切除术（切除胰腺头部、十二指肠和其他附近的器官，通常用于治疗胰腺癌）
+
+<font color="sky blue">**duodenopancreatectomy**</font> n. 胰十二指肠切除术
+

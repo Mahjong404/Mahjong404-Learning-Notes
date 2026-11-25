@@ -1,0 +1,41 @@
+- ‌‌‌<font color="#f79646">含义：大麻</font>
+- ‌‌‌<font color="#f79646">变体：cannabi</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词cannabis（意为the hemp plant，即大麻）</font>
+- ‌‌‌<font color="#f79646">用途：构成大麻相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**cannabis**</font> n. 大麻（一种用于医疗和娱乐目的的植物品种）
+
+<font color="sky blue">**cannabis sativa**</font> 大麻（是大麻植物的科学名称）
+
+<font color="sky blue">**cannabic**</font> adj. 大麻的
+
+<font color="sky blue">**cannabine**</font> n. 大麻碱，大麻素   
+
+<font color="sky blue">**cannabin**</font> n. 大麻脂
+
+<font color="sky blue">**cannabidiol**</font> n. 大麻二醇（大麻植物中发现的一种非精神活性大麻素，通常用于医疗目的） 
+
+<font color="sky blue">**cannabinol**</font> n. 大麻醇，大麻酚（大麻植物中的一种大麻素，通常用于医疗目的）
+
+<font color="sky blue">**cannabimimetic**</font> n. 类大麻素（其作用于大麻素相似，通常用于医疗目的）
+
+<font color="sky blue">**cannabigerol**</font> n. 大麻萜酚，大麻葛让酚
+
+<font color="sky blue">**cannabinoid**</font> n. 大麻的化学成分（可指任何一种,如大麻醇、四氢大麻醇等，通常用于医疗目的）
+
+<font color="sky blue">**cannabinoid receptor**</font> 大麻素受体（人体中与大麻素相互作用的一种受体）
+
+<font color="sky blue">**cannabinoid hyperemesis syndrome**</font> 大麻素剧吐综合征（大麻使用者反复呕吐和腹痛的一种症状）
+
+<font color="sky blue">**cannabinoid withdrawal syndrome**</font> 大麻素戒断综合症 
+
+<font color="sky blue">**cannabinoid tolerance**</font> 大麻耐受性（由于重复使用，长期以来对大麻素的反应减少）
+
+<font color="sky blue">**cannabism**</font> n. 大麻中毒
+
+<font color="sky blue">**cannabinoid therapy**</font> 大麻素疗法（将大麻素用于医疗目的，通常用于治疗疼痛、恶心和其他疾病）
+

@@ -1,0 +1,13 @@
+- ‌‌‌<font color="#f79646">含义：肺叶</font>
+- ‌‌‌<font color="#f79646">变体：lobo</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词lobus（意为lobe，即身体器官的叶，尤指肺叶、肝叶、脑叶或耳垂）</font>
+- ‌‌‌<font color="#f79646">用途：构成肺叶等相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**lobular pneumonia**</font> 小叶性肺叶（一种影响一个或多个肺叶的肺炎，通常由细菌或病毒引起）
+
+<font color="sky blue">**lobar pneumonia**</font> 大叶性肺炎
+

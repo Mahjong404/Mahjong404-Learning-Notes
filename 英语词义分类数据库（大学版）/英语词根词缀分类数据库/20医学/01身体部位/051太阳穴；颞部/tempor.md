@@ -1,0 +1,29 @@
+- ‌‌‌<font color="#f79646">含义：颞部；颞骨</font>
+- ‌‌‌<font color="#f79646">变体：temporo</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词tempus（意为time或temporal bone，即时间或颞骨）</font>
+- ‌‌‌<font color="#f79646">用途：构成颞部或颞骨相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**temporal**</font> adj. 颞部的
+
+<font color="sky blue">**auriculotemporal**</font> adj. 耳颞部的
+
+<font color="sky blue">**frontotemporal**</font> adj. 额颞（骨）的
+
+<font color="sky blue">**temporomandibular joint**</font> 颞下颌关节（连接头部两侧下颌骨和颅骨的关节）
+
+<font color="sky blue">**temporoparietal junction**</font> 颞顶交界处（大脑颞叶和顶叶的交界处） 
+
+<font color="sky blue">**temporal lobe**</font> 颞叶（大脑四个主要脑叶之一，位于头部两侧，参与听觉和视觉处理及记忆）    
+
+<font color="sky blue">**temporoparietal fascia**</font> 颞顶筋膜（覆盖颅骨的颞骨和顶骨的一层结缔组织）
+
+<font color="sky blue">**temporomandibular disorder**</font> 颞下颌关节紊乱（引起颞下颌关节和颌骨肌肉疼痛和功能障碍的疾病）
+
+<font color="sky blue">**temporomandibular joint syndrome**</font> 颞下颌关节综合征（颞下颌关节紊乱的另一个术语，可引起各种症状，如下颌疼痛、咔嚓声和咀嚼困难）
+
+<font color="sky blue">**temporal arteritis**</font> 颞动脉炎（向太阳穴和头皮供血的动脉的炎症，常常引起头痛和视力问题）  
+

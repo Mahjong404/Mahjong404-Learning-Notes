@@ -1,0 +1,49 @@
+- ‌‌‌<font color="#f79646">含义：（皮肤或黏膜的）溃疡</font>
+- ‌‌‌<font color="#f79646">变体：ulcer</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词ulcus（意为sore或wound，即疼痛或伤口）</font>
+- ‌‌‌<font color="#f79646">用途：构成（皮肤或黏膜的）溃疡相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**ulcer**</font> n. 溃疡（即在皮肤或粘膜上形成的一个疮口）
+
+<font color="sky blue">**peptic ulcer**</font> 消化性溃疡（形成于胃或小肠内壁的溃疡）
+
+<font color="sky blue">**peptic ulcer disease**</font> 消化道溃疡病
+
+<font color="sky blue">**mouth ulcer**</font> 口腔溃疡（在口腔内粘膜上形成的溃疡）
+
+<font color="sky blue">**esophageal ulcer**</font> 食道溃疡
+
+<font color="sky blue">**gastric ulcer**</font> 胃溃疡
+
+<font color="sky blue">**duodenal ulcer**</font> 十二指肠溃疡
+
+<font color="sky blue">**gastroduodenal ulcer**</font> 胃十二指肠溃疡
+
+<font color="sky blue">**corneal ulcer**</font> 角膜溃疡
+
+<font color="sky blue">**venous ulcer**</font> 静脉溃疡（由于静脉功能不足而在皮肤上形成的溃疡）
+
+<font color="sky blue">**cutaneous ulcer**</font> 皮肤溃疡
+
+<font color="sky blue">**leg ulcer**</font> 腿部溃疡
+
+<font color="sky blue">**pressure ulcer**</font> 压迫性溃疡（由于长期的压迫而在皮肤上形成的溃疡）
+
+<font color="sky blue">**neurotrophic ulcer**</font> 神经营养性溃疡（由于神经损伤而在皮肤上形成的溃疡）
+
+<font color="sky blue">**trophic ulcer**</font> 营养性溃疡（由于血液供应不足而在皮肤上形成的溃疡）
+
+<font color="sky blue">**cystoscopic ulcer**</font> 膀胱镜性溃疡
+
+<font color="sky blue">**diabetic ulcer**</font> 糖尿病溃疡
+
+<font color="sky blue">**ulcerative colitis**</font> 溃疡性结肠炎
+
+<font color="sky blue">**blepharitis ulcerosa**</font> 溃疡性睑炎
+
+<font color="sky blue">**exulceration**</font> n. 形成溃疡
+

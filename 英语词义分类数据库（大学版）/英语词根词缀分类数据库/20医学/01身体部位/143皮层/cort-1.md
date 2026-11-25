@@ -1,0 +1,57 @@
+- ‌‌‌<font color="#f79646">含义：（器官或组织的）外皮</font>
+- ‌‌‌<font color="#f79646">变体：cortic, cortico, cortex</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词cortex（意为bark或rind，即外皮）</font>
+- ‌‌‌<font color="#f79646">用途：构成（器官或组织的）外皮相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**cortex**</font> n.（大脑等器官的）皮层
+
+<font color="sky blue">**cerebral cortex**</font> 大脑皮层
+
+<font color="sky blue">**adrenal cortex**</font> 肾上腺皮质（肾上腺的外层，产生皮质醇和醛固酮等荷尔蒙）    
+
+<font color="sky blue">**aenal cortex**</font> 肾皮质（肾脏的外层，包含肾小球和肾小管，负责过滤和重吸收血液中的物质）
+
+<font color="sky blue">**neurofiber cortex**</font> 神经纤维皮质
+
+<font color="sky blue">**corticospinal**</font> adj. 皮质脊髓的 
+
+<font color="sky blue">**corticospinal tract**</font> 皮质脊髓束（连接大脑皮层和脊髓的一束神经纤维，参与自主运动和运动控制）
+
+<font color="sky blue">**corticobulbar**</font> adj. 大脑皮层和颅神经的
+
+<font color="sky blue">**corticoparietal**</font> adj. 皮质顶叶的
+
+<font color="sky blue">**corticocortical**</font> adj. 大脑皮层的（用于描述大脑皮层不同区域之间的连接，参与信息处理和整合）
+
+<font color="sky blue">**corticopontine**</font> adj. 皮质脑桥的 
+
+<font color="sky blue">**corticomedullary**</font> adj. 皮质髓质的
+
+<font color="sky blue">**adrenocorticotrophic**</font> adj. 促肾上腺皮质的
+
+<font color="sky blue">**corticotropin**</font> n. 促肾上腺皮质激素，亲皮质素（由脑垂体产生的一种激素，它刺激肾上腺皮质产生和释放皮质醇）
+
+<font color="sky blue">**corticosteroid**</font> n. 皮质类固醇--由肾上腺皮质产生的一种激素，通常作为一种药物用于减轻炎症和抑制免疫系统
+
+<font color="sky blue">**glucocorticoid**</font> n. 糖皮质激素
+
+<font color="sky blue">**cortisol**</font> n. 皮质醇，氢化可的松（由肾上腺皮质产生的一种激素，它有助于调节身体对压力和炎症的反应）
+
+<font color="sky blue">**cortical bone**</font> 皮质骨（密集、坚硬的外层骨组织，为骨髓提供结构上的支持和保护）
+
+<font color="sky blue">**cortical arousal**</font> 皮质唤醒（大脑皮层的活动和反应水平，可以用脑电图等技术测量）
+
+<font color="sky blue">**allocortex**</font> n. 不均皮质
+
+<font color="sky blue">**cortical blindness**</font> 皮质盲（由于大脑视觉皮层受损，人无法感知视觉刺激）
+
+<font color="sky blue">**corticobasal degeneration**</font> 皮质基底层变性（一种罕见的神经退行性疾病，大脑皮层和基底神经节逐渐受损，导致运动障碍和认知功能障碍）
+
+<font color="sky blue">**cortical atrophy**</font> 皮层萎缩（大脑皮层萎缩或退化，通常见于阿尔茨海默病或脑外伤等情况）
+
+<font color="sky blue">**corticectomy**</font> n. 脑皮质切除术
+

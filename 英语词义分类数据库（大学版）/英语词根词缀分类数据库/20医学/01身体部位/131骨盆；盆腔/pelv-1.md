@@ -1,0 +1,47 @@
+- ‌‌‌<font color="#f79646">含义：骨盆</font>
+- ‌‌‌<font color="#f79646">变体：pelvi, pelvio, pelvo, pelyco</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词pelvis（意为basin或bowl，即盆）</font>
+- ‌‌‌<font color="#f79646">用途：构成骨盆相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**pelvis**</font> n. 骨盆（支撑躯干和保护生殖和消化器官的骨质结构）
+
+<font color="sky blue">**pelvic**</font> adj. 骨盆的
+
+<font color="sky blue">**abdominopelvic**</font> adj. 腹腔骨盆的
+
+<font color="sky blue">**android pelvis**</font> 男子型骨盆，男性样骨盆
+
+<font color="sky blue">**asymmetrical pelvis**</font> 非对称骨盆
+
+<font color="sky blue">**dolichopellic**</font> adj. 长形骨盆的
+
+<font color="sky blue">**pelvovisceral**</font> adj. 骨盆内脏的（与骨盆的器官有关，包括生殖系统、泌尿系统和消化系统）
+
+<font color="sky blue">**pelvic floor**</font> 骨盆底（支持盆腔器官的一组肌肉和组织，包括膀胱、子宫和直肠）
+
+<font color="sky blue">**pelvic bone**</font> 骨盆骨（构成骨盆的骨骼之一，包括髂骨、峡部和耻骨）
+
+<font color="sky blue">**pelvic girdle**</font> 骨盆带（连接下肢和椎体的骨质框架，由髋骨和骶骨组成）
+
+<font color="sky blue">**pelvodynia**</font> n. 盆腔疼痛（盆腔区域的疼痛，通常与生殖器官或泌尿系统的紊乱有关）
+
+<font color="sky blue">**pelvic inflammatory disease**</font> 盆腔炎（一种影响生殖器官和盆腔内其他结构的细菌感染）
+
+<font color="sky blue">**pelvic organ prolapse**</font> 盆腔器官脱垂（ 一个或多个盆腔器官，如子宫或膀胱，从其正常位置下降或移位）
+
+<font color="sky blue">**pelviscopy**</font> n. 盆腔镜检查（一种微创外科手术，通过盆腔内的一个小切口插入一个小摄像头，以观察内部器官）
+
+<font color="sky blue">**pelvimetry**</font> n. 骨盆测量法（测量产妇骨盆的尺寸，以确定经阴道成功分娩的可能性）
+
+<font color="sky blue">**pelvimeter**</font> n. 骨盆测量仪
+
+<font color="sky blue">**pelvimeter index**</font> 骨盆测量仪指数（在骨盆测量中使用的一种计算方法，用于确定骨盆尺寸是否适合于分娩）
+
+<font color="sky blue">**pelvimetric conjugate**</font> 盆腔共轭（骶骨岬和耻骨联合之间的距离，是骨盆测量法的重要测量之一）
+
+<font color="sky blue">**pelvic tilt**</font> 骨盆倾斜（骨盆相对于脊柱的角度，它可以影响姿势和步态）
+

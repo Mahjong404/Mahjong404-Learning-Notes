@@ -1,0 +1,35 @@
+- ‌‌‌<font color="#f79646">含义：腮</font>
+- ‌‌‌<font color="#f79646">变体：branchio</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词brankhia（意为gills，即腮）</font>
+- ‌‌‌<font color="#f79646">用途：构成腮的相关词汇，不过常指水生生物的腮</font>
+
+
+---
+
+
+<font color="sky blue">**branchial**</font> adj. 鳃的；鳃状的（与鳃或支弓有关，支弓是支持鱼类和其他一些水生生物的鳃的结构）
+
+<font color="sky blue">**branchiogenic**</font> adj. 与腮或支弓有关的；由腮或支弓产生的
+
+<font color="sky blue">**branchiocardiac**</font> adj. 与鳃和心脏有关的（通常用于指某些发育不良的疾病）
+
+<font color="sky blue">**branchiocephalic**</font> adj. 与腮和头颈有关的
+
+<font color="sky blue">**branchiopulmonary**</font> adj. 与腮和肺有关的（通常用于指某些发育障碍或异常情况）
+
+<font color="sky blue">**branchiopod**</font> n. 鳃足动物（一种水生甲壳类动物，其腿上有鳃）
+
+<font color="sky blue">**branchiogenic carcinoma**</font> 鳃裂癌
+
+<font color="sky blue">**abranchial**</font> adj. 无鳃的，无鳃类的
+
+<font color="sky blue">**abranchiate**</font> n. 无鳃类动物 adj. 无鳃的
+
+<font color="sky blue">**Branchiosaurus**</font> n. 鳃龙
+
+<font color="sky blue">**calyptobranchiate**</font> adj. 盖鳃的
+
+<font color="sky blue">**cryptobranchiate**</font> adj.（鲵鱼等）生有隐鳃的
+
+
+

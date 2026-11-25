@@ -1,0 +1,59 @@
+- ‌‌‌<font color="#f79646">含义：味觉</font>
+- ‌‌‌<font color="#f79646">变体：geusia, geusic, geustia</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词geuomai（意为to taste，即品尝）</font>
+- ‌‌‌<font color="#f79646">用途：构成味觉相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**geusis**</font> n. 味觉（即感知味道的能力）
+
+<font color="sky blue">**geusoma**</font> n. 味觉或感知味道的能力
+
+<font color="sky blue">**geusigenic**</font> adj. 引起味觉改变的
+
+<font color="sky blue">**geusogenic**</font> adj. 引起味觉的；引起味觉失调的；与味觉有关的；与味觉失调有关的
+
+<font color="sky blue">**geusioses**</font> n. 一组影响味觉的疾病（通常由神经或遗传因素引起）
+
+<font color="sky blue">**ageusia**</font> n. 味觉之局部或全部丧失（通常与疾病或药物副作用有关）
+
+<font color="sky blue">**ageusic**</font> adj. 味觉缺失的，失味的
+
+<font color="sky blue">**dysgeusia**</font> n. 味觉障碍（一个人出现扭曲或不愉快的味觉，通常与疾病或药物副作用有关）
+
+<font color="sky blue">**ageusic dysgeusia**</font> 味觉缺乏性味觉障碍，失味性味觉障碍（一个人在失去味觉的情况下仍能体验到扭曲的或不愉快的味觉感受）
+
+<font color="sky blue">**geusognosia**</font> n. 味觉障碍（无法识别不同的味道）
+
+<font color="sky blue">**geusocausia**</font> n. 味觉失调症（味觉受到系统性疾病的影响）
+
+<font color="sky blue">**geusopathy**</font> n. 味觉紊乱
+
+<font color="sky blue">**hypogeusia**</font> n. 味觉减退，味觉迟钝（通常与疾病或药物的副作用有关）
+
+<font color="sky blue">**hypergeusia**</font> n. 味觉过敏（对味觉或感知味道的敏感性增加，通常与疾病或药物副作用有关）          
+
+<font color="sky blue">**allotriogeustia**</font> n. 味觉异常
+
+<font color="sky blue">**amblygeustia**</font> n. 味觉迟钝
+
+<font color="sky blue">**parageusia**</font> n. 味觉倒错，味觉异常（一种味觉障碍，其特点是嘴里有持续的不愉快的味道）
+
+<font color="sky blue">**phantogeusia**</font> n. 幻味觉（一种味觉上的幻觉，通常被描述为口腔中持续的苦味或金属味）
+
+<font color="sky blue">**geusopyrosis**</font> n. 由酸性或辛辣食物引起的口腔或喉咙的灼热感
+
+<font color="sky blue">**geusotoxicity**</font> n. 味觉毒性（某些物质对味觉的毒性作用）
+
+<font color="sky blue">**geusophobia**</font> n. 对味觉或品尝新食物的异常恐惧（通常与心理或精神疾病有关）
+
+<font color="sky blue">**geumaphobia**</font> n. 味觉恐怖（对味觉或品尝新食物的异常恐惧，通常与心理或精神疾病有关）        
+
+<font color="sky blue">**cacogeusia**</font> n. 劣味，恶味（一个人的嘴里会出现持续的怪味或金属味，即使他们没有吃或喝任何东西。可由各种因素引起，包括药物、感染和某些疾病）
+
+<font color="sky blue">**geusin**</font> n. 在一些植物中发现的一种化合物，已被研究用于治疗味觉障碍
+
+<font color="sky blue">**geusiatreia**</font> n. 味觉障碍的治疗
+

@@ -1,0 +1,30 @@
+- ‌‌‌<font color="#f79646">含义：眼色素层；葡萄膜</font>
+- ‌‌‌<font color="#f79646">变体：uveo</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词uva（意为grape，即葡萄）</font>
+- ‌‌‌<font color="#f79646">用途：构成眼色素层或葡萄膜相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**uvea**</font> n. 葡萄膜（是眼睛的中间层，包括虹膜、睫状体和脉络膜）
+
+<font color="sky blue">**uveoscleral**</font> adj. 色素层巩膜的，葡萄膜巩膜的
+
+<font color="sky blue">**uveoscleritis**</font> n. 眼色素层巩膜炎
+
+<font color="sky blue">**uveitis**</font> n. 葡萄膜炎
+
+<font color="sky blue">**anterior uveitis**</font> 前色素层炎
+
+<font color="sky blue">**uveitic glaucoma**</font> 葡萄膜炎性青光眼（作为葡萄膜炎的并发症而发生的一种青光眼，常由眼内压升高引起）
+
+<font color="sky blue">**uveomeningitis**</font> n. 眼色素膜脑膜炎（一种罕见的脑膜炎，常伴有葡萄膜炎和其他眼部症状）
+
+<font color="sky blue">**uveal melanoma**</font> 葡萄膜黑色素瘤（一种罕见的癌症，发生在葡萄膜的细胞中，如果不及时治疗，往往会导致视力下降或失明）
+
+<font color="sky blue">**uveodermatologic syndrome**</font> 葡萄膜皮肤病综合征（是一种同时影响葡萄膜和皮肤的自身免疫性疾病）
+
+<font color="sky blue">**uveoparotitis**</font> n. 眼色素层腮腺炎
+
+<font color="sky blue">**uvectomy**</font> n. 葡萄膜切除术（切除部分葡萄膜的一种手术，通常用于治疗葡萄膜炎或其他影响葡萄膜的疾病）

@@ -1,0 +1,35 @@
+- ‌‌‌<font color="#f79646">含义：颧骨</font>
+- ‌‌‌<font color="#f79646">变体：zygomatico</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词zygon（意为yoke或pair，即牛轭或一对儿。大致因为颧骨像牛轭的作用一样，对头骨起到连接和约束的作用，所以在医学词根中表示“颧骨”）</font>
+- ‌‌‌<font color="#f79646">用途：构成颧骨相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**zygoma**</font> n. 颧骨
+
+<font color="sky blue">**zygomatic**</font> adj. 颧骨的 n. 颧骨
+
+<font color="sky blue">**zygomatic arch**</font> 颧骨弓（从颧骨延伸到颞骨的拱形结构）
+
+<font color="sky blue">**zygomatic process**</font> 颧骨突（从颧骨延伸出来的骨突，形成颞骨的一部分）
+
+<font color="sky blue">**zygomatic branch**</font> 颧骨支（面神经的一个分支，为颧骨肌肉和脸颊的皮肤提供感知能力）
+
+<font color="sky blue">**zygomaticus**</font> n. 颧肌（脸颊上的肌肉，参与面部表情）
+
+<font color="sky blue">**zygomaticofacial**</font> adj. 颧面的（即与颧骨和面部有关的）
+
+<font color="sky blue">**zygomaticofrontal**</font> adj. 颧额的
+
+<font color="sky blue">**zygomaticosphenoid**</font> adj. 颧蝶的
+
+<font color="sky blue">**zygomaticotemporal**</font> adj. 颧颞的（即与颧骨和颞骨有关的）
+
+<font color="sky blue">**zygomatic nerve**</font> 颧骨神经（向脸颊和头侧皮肤提供感觉的神经）
+
+<font color="sky blue">**zygomaticomaxillary**</font> adj. 与颧骨和上颌骨有关的
+
+<font color="sky blue">**zygomaticomandibular**</font> adj. 与颧骨和下颌骨有关的
+

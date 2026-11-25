@@ -1,0 +1,47 @@
+- ‌‌‌<font color="#f79646">含义：阴囊</font>
+- ‌‌‌<font color="#f79646">变体：scroto</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词scrotum（意为a bag or purse，即袋子）</font>
+- ‌‌‌<font color="#f79646">用途：构成阴囊相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**scrotum**</font> n. 阴囊（包含男性睾丸和附睾的外囊，位于大腿之间）
+
+<font color="sky blue">**scrotal**</font> adj. 阴囊的
+
+<font color="sky blue">**inguinoscrotal**</font> adj. 腹股沟阴囊的
+
+<font color="sky blue">**intrascrotal**</font> adj. 阴囊内的
+
+<font color="sky blue">**penoscrotal**</font> adj. 阴茎阴囊的
+
+<font color="sky blue">**scrotal hernia**</font> 阴囊疝（部分肠子或其他腹部组织通过阴囊壁的薄弱点或撕裂处突出）
+
+<font color="sky blue">**scrotal swelling**</font> 阴囊肿胀（阴囊的异常肿大或膨胀，可由感染、肿瘤、外伤或其他因素引起）
+
+<font color="sky blue">**scrotal pain**</font> 阴囊疼痛（阴囊或睾丸的疼痛或不适，可由感染、受伤、扭转或其他因素引起）
+
+<font color="sky blue">**scrotal erythema**</font> 阴囊红斑（阴囊皮肤发红或发炎，可由感染、过敏或其他皮肤病引起）
+
+<font color="sky blue">**scrotal calcinosis**</font> 阴囊钙质沉着症，阴囊钙化症（一种良性疾病，导致阴囊内形成多个钙化的小结节，通常没有症状或并发症）
+
+<font color="sky blue">**scrotal sebaceous cyst**</font> 阴囊皮脂腺囊肿（形成于阴囊皮脂腺的良性囊肿，含有乳酪状或油状物质）
+
+<font color="sky blue">**scrotal lymphedema**</font> 阴囊淋巴水肿（阴囊和生殖器部位的肿胀或水肿，可由淋巴阻塞、手术或放射治疗引起）
+
+<font color="sky blue">**scrotal dermatitis**</font> 阴囊皮炎（阴囊皮肤的炎症或刺激，可由过敏、感染或其他因素引起） 
+
+<font color="sky blue">**scrotal elephantiasis**</font> 阴囊象皮肿（一种罕见的严重淋巴水肿，导致阴囊和阴茎大量肿胀和畸形，通常是由于寄生虫感染或其他原因造成的淋巴阻塞）
+
+<font color="sky blue">**scrotal abscess**</font> 阴囊脓肿（阴囊内的脓液聚集，可由感染、外伤或其他因素引起）  
+
+<font color="sky blue">**scrotal tongue**</font> 阴囊舌（一种良性疾病，导致舌乳头增大和裂开，并使其出现皱纹或皱褶的外观） 
+
+<font color="sky blue">**scrotal ultrasound**</font> 阴囊超声（使用高频声波来观察阴囊和睾丸，并检测异常情况，如肿瘤、囊肿或扭转）
+
+<font color="sky blue">**scrotoplasty**</font> n. 阴囊整形术
+
+<font color="sky blue">**scrotal shield**</font> 阴囊保护罩（覆盖阴囊和阴茎的保护装置，用于防止在运动、军事训练或其他活动中受伤或外伤）
+

@@ -1,0 +1,37 @@
+- ‌‌‌<font color="#f79646">含义：联胎</font>
+- ‌‌‌<font color="#f79646">变体：无</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词pagos（意为hill或mountain，即山）</font>
+- ‌‌‌<font color="#f79646">用途：构成从某部位突出来的，且固定在该部位的一个病灶或结构，形状像山一样拔地而起，不过实际中常构成联胎相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**craniopagus**</font> n. 头颅连胎
+
+<font color="sky blue">**occipitopagus**</font> n. 一种罕见的先天性疾病，双胞胎在头的后面相接
+
+<font color="sky blue">**omphalopagus**</font> n. 脐部联胎
+
+<font color="sky blue">**dextropagus**</font> n. 一种罕见的先天性疾病，双胞胎在腹部相连，其中一个双胞胎朝前，另一个朝后
+
+<font color="sky blue">**pygopagus**</font> n. 臀部联胎
+
+<font color="sky blue">**thoracopagus**</font> n. 胸部联胎
+
+<font color="sky blue">**cardiapagus**</font> n. 一种罕见的先天性疾病，双胞胎在胸部相连，共享一个心脏
+
+<font color="sky blue">**ischiopagus**</font> n. 一种罕见的先天性疾病，双胞胎在骨盆处相连，双腿朝向相反方向
+
+
+<font color="#f79646">补充：有些词根也可指“双胞胎”，不过实际极少见，例如词根gemin或gemini：</font>
+
+<font color="sky blue">**geminology**</font> n. 孪生学，双胞胎学
+
+<font color="sky blue">**geminiparous**</font> adj.（动物）生双胞胎的
+
+
+<font color="#f79646">还有词根didym：</font>
+
+<font color="sky blue">**cryptodidymus**</font> n. 隐联胎，隐体联胎
+

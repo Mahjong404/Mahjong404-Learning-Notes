@@ -1,0 +1,42 @@
+- ‌‌‌<font color="#f79646">含义：骨头上的小孔</font>
+- ‌‌‌<font color="#f79646">变体：fenestra</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词fenestra（意为window，即窗户）</font>
+- ‌‌‌<font color="#f79646">用途：构成骨头上的小孔相关词汇（本指体内窗户状的开孔）</font>
+
+
+---
+
+
+<font color="sky blue">**fenestration surgery**</font> 开窗手术（在骨头上开一个小口或窗口，如颅骨或鼻窦，以改善引流或缓解压力）
+
+<font color="sky blue">**fenestration**</font> n. 骨开窗术（在骨头上开一个小口或窗口，如颅骨，以减轻压力或排出液体）
+
+
+<font color="sky blue">**fenestra vestibuli**</font> 前庭门（内耳骨上的一个开口，允许声音传到耳蜗）
+
+<font color="sky blue">**fenestra cochleae**</font> 耳蜗门（内耳骨上的一个开口，将前庭和鼓室分开）
+
+<font color="sky blue">**fenestra rotunda**</font> 耳廓门（在内耳骨上的一个开口，将前庭和鼓室分开： 内耳骨上的一个圆形开口，可供液体通过）
+
+
+<font color="sky blue">**fenestrated capillary**</font> 有孔的毛细血管（一种具有小孔或开口的毛细血管，允许液体和小分子通过）
+
+<font color="sky blue">**fenestrated endothelium**</font> 有孔的内皮组织
+
+<font color="sky blue">**fenestration of the heart**</font> 心脏开窗术（在心脏上开小口或窗口以改善血流）
+
+<font color="sky blue">**fenestration of the liver**</font> 肝脏开窗术（在肝脏上开出小口或窗口，以改善引流或缓解压力）
+
+<font color="sky blue">**fenestrated graft**</font> 有孔的移植（一种外科移植手术，有小的开口或窗口，可以让血液或其他液体通过）
+
+
+<font color="sky blue">**fenestrated drape**</font> 有孔的手术布（具有小开口或小窗口的手术布，允许在保持无菌条件下进入手术部位）
+
+<font color="sky blue">**fenestrated sheath**</font> 有孔的护套（具有小开口或窗口的医疗设备，可以插入其他医疗仪器或设备）   
+
+<font color="sky blue">**fenestrated tracheostomy tube**</font> 有孔的气管造口管（ 一种具有小开口或窗口的气管造口管，可以改善气流和分泌物的排出）
+
+<font color="sky blue">**fenestrated tube**</font> 有孔的管子（具有小的开口或窗口的医疗管或导管，可以让液体或气体通过
+
+<font color="sky blue">**fenestrated stent**</font> 有孔的支架（用于撑开堵塞或狭窄的血管或其他管状结构的医疗设备，有小的开口或窗口，可供液体或气体通过）
+

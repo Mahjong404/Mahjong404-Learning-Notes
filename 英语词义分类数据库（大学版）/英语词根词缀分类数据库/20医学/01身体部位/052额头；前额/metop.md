@@ -1,0 +1,21 @@
+- ‌‌‌<font color="#f79646">含义：前额</font>
+- ‌‌‌<font color="#f79646">变体：metopo</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词metopon（意为forehead，即前额）</font>
+- ‌‌‌<font color="#f79646">用途：构成前额相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**metopic**</font> adj. 额的 
+
+<font color="sky blue">**metopion**</font> n. 额中点（额头上的一个点，作为颅骨测量的参照点）
+
+<font color="sky blue">**metopism**</font> n. 解颅（头骨的两块额骨之间的缝合线在婴儿期后仍然开放，在额头上形成一个山脊）
+
+<font color="sky blue">**metopotomy**</font> n. 额骨切除术（通过手术切除部分额骨）
+
+<font color="sky blue">**metopoplasty**</font> n. 额成形术
+
+<font color="sky blue">**metoposcopy**</font> n. 额头相面术（研究额头的线条和特征以预测性格特征和未来事件）
+

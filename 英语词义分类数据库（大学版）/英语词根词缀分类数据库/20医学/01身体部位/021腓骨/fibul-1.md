@@ -1,0 +1,31 @@
+- ‌‌‌<font color="#f79646">含义：腓骨</font>
+- ‌‌‌<font color="#f79646">变体：无</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词fibula（本意为a clasp or pin for fastening a garment，即系衣服的环扣或别针。在解剖学中可指the outer and smaller bone of the lower leg，即小腿外侧的骨头）</font>
+- ‌‌‌<font color="#f79646">用途：构成腓骨相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**fibula**</font> n. 腓骨
+
+<font color="sky blue">**fibular**</font> adj. 腓骨的
+
+<font color="sky blue">**fibulocalcaneal**</font> adj. 腓跟的   
+
+<font color="sky blue">**fibularis muscles**</font> 腓骨肌肉（位于腿部外侧室的一组肌肉，负责足部和踝关节的外翻）
+
+<font color="sky blue">**fibular head**</font> 腓骨头（腓骨的圆形末端，与胫骨衔接，形成胫腓关节近端）
+
+<font color="sky blue">**fibular neck**</font> 腓骨颈（腓骨头和骨干之间的狭窄部分）
+
+<font color="sky blue">**fibular nerve**</font> 腓骨神经 
+
+<font color="sky blue">**fibular artery**</font> 腓动脉 
+
+<font color="sky blue">**fibularis tendons**</font> 腓肌腱
+
+<font color="sky blue">**fibular fracture**</font> 腓骨骨折 
+
+
+

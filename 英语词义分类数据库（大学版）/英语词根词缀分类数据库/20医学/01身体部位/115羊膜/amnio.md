@@ -1,0 +1,43 @@
+- ‌‌‌<font color="#f79646">含义：羊膜</font>
+- ‌‌‌<font color="#f79646">变体：无</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词amnion（意为membrane around the fetus，即羊膜）</font>
+- ‌‌‌<font color="#f79646">用途：构成羊膜相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**amniotic membrane**</font> 羊膜（衬托羊膜囊的薄而透明的膜，在医学上可用于促进伤口愈合或组织修复）
+
+<font color="sky blue">**amniotic sac**</font> 羊膜囊（包裹和保护子宫内胎儿的薄膜，包含羊水和脐带）
+
+<font color="sky blue">**amniochorion**</font> n. 羊膜绒毛膜
+
+<font color="sky blue">**amniochorial**</font> adj. 羊膜绒毛膜的
+
+<font color="sky blue">**amniotic fluid**</font> 羊水（围绕和保护子宫内胎儿的透明或淡黄色液体，并帮助调节其温度和发育）
+
+<font color="sky blue">**amniotic stem cells**</font> 羊水干细胞（源自羊水或羊膜的干细胞，可分化为各种类型的细胞，用于组织修复或移植）
+
+<font color="sky blue">**amniotic fluid index**</font> 羊水指数（对子宫内羊水数量的测量，通常在怀孕期间通过超声检查进行）  
+
+<font color="sky blue">**amniotic fluid volume**</font> 羊水容量（子宫内羊水的总量，通常在超声检查时以毫升或厘米为单位测量）  
+
+<font color="sky blue">**amniotic fluid color**</font> 羊水的颜色（可以表明胎儿的健康或状况，如蜕膜染色、血性液体或透明液体） 
+
+<font color="sky blue">**amnionitis**</font> n. 羊膜炎
+
+<font color="sky blue">**amniotic fluid embolism**</font> 羊水栓塞（一种罕见的、危及生命的妊娠或分娩并发症，羊水进入母体血液，可引起心脏或呼吸衰竭）
+
+<font color="sky blue">**amniotic fluid leak**</font> 羊水漏（在分娩前或分娩过程中，羊水从羊膜囊中漏出或破裂的情况，会增加感染或早产的风险）
+
+<font color="sky blue">**amniotic fluid disorders**</font> 羊水紊乱（怀孕期间影响羊水数量或质量的医学状况或异常，如少水羊、多水羊或胎粪染色）
+
+<font color="sky blue">**amniotic band syndrome**</font> 羊膜带综合征（一种先天性疾病，胎儿被羊膜囊的纤维带缠绕或限制，可导致畸形或肢体截断）
+
+<font color="sky blue">**amniocentesis complications**</font> 羊水穿刺术并发症（羊膜穿刺的潜在风险或并发症，如感染、出血或流产）
+
+<font color="sky blue">**amniocentesis**</font> n. 羊膜穿刺术（从子宫中抽取少量羊水，并对其进行遗传或染色体异常的检测）  
+
+<font color="sky blue">**amnioinfusion**</font> n. 羊水灌注（将无菌盐水或其他液体注入子宫，补充或增加羊水的数量，通常是为了减轻对胎儿的压力或促进分娩）
+

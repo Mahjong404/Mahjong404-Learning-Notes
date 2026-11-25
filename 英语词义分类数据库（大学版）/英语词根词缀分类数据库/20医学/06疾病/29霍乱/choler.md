@@ -1,0 +1,41 @@
+- ‌‌‌<font color="#f79646">含义：霍乱</font>
+- ‌‌‌<font color="#f79646">变体：cholera, choleri, cholero</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词kholē（意为bile，即胆汁）</font>
+- ‌‌‌<font color="#f79646">用途：构成霍乱相关词汇（该词根还可表示胆汁，具体请查看胆汁组）</font>
+
+
+---
+
+
+<font color="sky blue">**cholera**</font> n. 霍乱（一种高度传染性的细菌疾病，引起严重的腹泻和脱水）
+
+<font color="sky blue">**choleric**</font> adj. 霍乱的
+
+<font color="sky blue">**choleraic**</font> adj. 霍乱的；属于霍乱的；具霍乱性质的
+
+<font color="sky blue">**choleriform**</font> adj. 类似于霍乱的
+
+<font color="sky blue">**cholera toxin**</font> 霍乱毒素（由引起霍乱的细菌产生的毒素）
+
+<font color="sky blue">**cholera stool**</font> 霍乱大便（用于描述霍乱特有的水样腹泻的术语）
+
+<font color="sky blue">**cholera vaccine**</font> 霍乱疫苗
+
+<font color="sky blue">**cholera transmission**</font> 霍乱传播（霍乱在人与人之间传播的过程，通常通过被污染的水或食物来传播）
+
+<font color="sky blue">**cholera treatment**</font> 霍乱的治疗
+
+<font color="sky blue">**cholera prevention**</font> 霍乱的预防
+
+<font color="sky blue">**cholera resistance**</font> 霍乱抵抗力（个人或人群抵抗霍乱感染或从霍乱中恢复的能力）
+
+<font color="sky blue">**cholera bed**</font> 霍乱床（专门用于治疗霍乱患者的床）
+
+<font color="sky blue">**cholera outbreak**</font> 霍乱爆发（某一地区的霍乱病例突然增加）
+
+<font color="sky blue">**cholera pandemic**</font> 霍乱大流行（霍乱在世界范围内的爆发）
+
+<font color="sky blue">**cholera epidemic**</font> 霍乱流行（霍乱在特定地区或人群中的大范围爆发）
+
+<font color="sky blue">**cholera belt**</font> 霍乱地带（世界上霍乱流行的地区，包括非洲、亚洲和南美洲的部分地区）
+

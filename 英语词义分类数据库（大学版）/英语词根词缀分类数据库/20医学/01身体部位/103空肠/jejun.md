@@ -1,0 +1,44 @@
+- ‌‌‌<font color="#f79646">含义：空肠</font>
+- ‌‌‌<font color="#f79646">变体：jejuno</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词jejunus（意为empty，即空的）</font>
+- ‌‌‌<font color="#f79646">用途：构成空肠相关词汇</font>
+
+---
+
+<font color="sky blue">**jejunum**</font> n. 空肠（小肠的第二部分，位于十二指肠和回肠之间，食物的大部分营养物质在这里被吸收） 
+
+<font color="sky blue">**jejunal**</font> adj. 空肠的
+
+<font color="sky blue">**jejunal artery**</font> n. 空肠动脉
+
+<font color="sky blue">**jejunitis**</font> n. 空肠炎
+
+<font color="sky blue">**jejunojejunostomy**</font> n. 空肠空肠吻合术（在空肠的两段之间建立新的连接的外科手术，通常是为了绕过肠道的病变或梗阻部分）
+
+<font color="sky blue">**jejunal ulcer**</font> 空肠溃疡
+
+<font color="sky blue">**jejunoileitis**</font> n. 空肠回肠炎（ 空肠和回肠的炎症，这是克罗恩病的一种常见类型，可引起腹痛、腹泻和体重下降）
+
+<font color="sky blue">**jejunogastric intussusception**</font> 空肠胃梗阻（ 一种罕见的情况，即空肠通过手术开出的口子伸缩到胃里，引起梗阻和疼痛）
+
+<font color="sky blue">**jejunal diverticulosis**</font> 空肠憩室病（一种在空肠壁上形成小包或小囊的情况，这些小包或小囊可能会发炎或感染，引起腹痛和腹胀）
+
+<font color="sky blue">**jejunal duplication**</font> 空肠重复（ 一种罕见的先天性异常，即形成空肠的重复段，可引起梗阻、出血或炎症，需要手术切除）
+
+<font color="sky blue">**jejunal atresia**</font> 空肠闭锁（一种先天性的出生缺陷，即空肠被堵塞或缺失，使食物无法通过，需要通过手术矫正）
+
+<font color="sky blue">**jejunal lymphoma**</font> 空肠淋巴瘤（一种起源于空肠淋巴细胞的癌症，可引起腹痛、腹泻和体重减轻，通常用化疗和放疗治疗）
+
+<font color="sky blue">**jejunogastric reflux**</font> 空肠胃反流（空肠内容物回流到胃里，引起胃酸反流和烧心）    : A condition in which the contents of the jejunum flow back into the stomach, causing acid reflux and heartburn.
+
+<font color="sky blue">**duodenojejunostomy**</font> n. 十二指肠空肠吻合术
+
+<font color="sky blue">**esophagojejunostomy**</font> n. 食管空肠吻合术
+
+<font color="sky blue">**jejunectomy**</font> n. 空肠切除术
+
+<font color="sky blue">**jejunostomy**</font> n. 空肠造口术（在空肠上开一个新口，以便进行肠道喂养或减压的外科手术，通常通过一根管子从腹壁插入）
+
+<font color="sky blue">**jejunoileal autotransplantation**</font> 空肠回肠自体移植术（切除空肠和回肠的病变段，保留其血液供应，并将其移植到同一病人的不同位置，通常用于治疗肠系膜缺血或克罗恩病）
+
+<font color="sky blue">**jejunoileal bypass**</font> 空肠分流术（一种减肥手术，涉及绕过大部分小肠，包括空肠和回肠，导致卡路里和营养物质的吸收减少）

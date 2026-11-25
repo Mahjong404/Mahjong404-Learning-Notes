@@ -1,0 +1,38 @@
+- ‌‌‌<font color="#f79646">含义：蝶骨；楔状骨</font>
+- ‌‌‌<font color="#f79646">变体：spheno</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词sphen（意为wedge，即楔子）</font>
+- ‌‌‌<font color="#f79646">用途：构成蝶骨相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**sphenoid**</font> n. 蝶骨；楔状骨（颅骨中的一块骨头，位于颅底，眼睛后面，大脑下面）adj. 楔形的
+
+<font color="sky blue">**sphenoid sinus**</font> 蝶窦
+
+<font color="sky blue">**sphenoethmoidal recess**</font> 蝶筛隐窝（颅骨内蝶骨和筛骨之间的空间）
+
+<font color="sky blue">**alisphenoid**</font> n. 翼蝶骨
+
+<font color="sky blue">**orbitosphenoid**</font> n. 眶蝶骨
+
+<font color="sky blue">**sphenopalatine**</font> n. 蝶腭（与蝶骨和形成口腔顶部的腭骨都有关） 
+
+<font color="sky blue">**sphenomandibular**</font> adj. 蝶下颌的（即与 与蝶骨和下颌骨都有关的）
+
+<font color="sky blue">**sphenofrontal**</font> adj. 蝶额的（即与蝶骨和额骨都有关的）
+
+<font color="sky blue">**sphenotemporal**</font> adj. 蝶颞的（即与蝶骨和颞骨都有关的）
+
+<font color="sky blue">**sphenomaxillary**</font> adj. 蝶上颌的（即与蝶骨和上颌骨都有关的）
+
+<font color="sky blue">**sphenomeningeal**</font> adj. 与蝶骨和脑脊膜都有关的
+
+<font color="sky blue">**sphenoiditis**</font> n. 蝶窦炎
+
+<font color="sky blue">**sphenoidotomy**</font> n. 蝶窦切开术
+
+
+
+ 

@@ -1,0 +1,15 @@
+- ‌‌‌<font color="#f79646">含义：软膏</font>
+- ‌‌‌<font color="#f79646">变体：ungui</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词unguentum（意为ointment或perfumed oil，即软膏或芳香油，常用来治疗疾病、让人放松或让皮肤变得更美）</font>
+- ‌‌‌<font color="#f79646">用途：构成软膏相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**unguent**</font> n. 药膏，软膏（一种柔软的、油性的物质，用作药用或美容制剂）
+
+<font color="sky blue">**unguentary**</font> adj. 药膏的，软膏的
+
+<font color="sky blue">**unguiferous**</font> adj. 产生或含有一种软膏或药膏的
+

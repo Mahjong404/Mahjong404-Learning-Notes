@@ -1,0 +1,37 @@
+- ‌‌‌<font color="#f79646">含义：手腕</font>
+- ‌‌‌<font color="#f79646">变体：carpo, carpals, carpus</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词karpos（意为wrist，即手腕）</font>
+- ‌‌‌<font color="#f79646">用途：构成手腕相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**carpal**</font> n. 腕骨 adj. 腕骨的
+
+<font color="sky blue">**carpale**</font> n. 腕骨
+
+<font color="sky blue">**carpal bones**</font> 腕骨 
+
+<font color="sky blue">**carpopedal**</font> adj. 腕足的；手足的
+
+<font color="sky blue">**carpometacarpal joint**</font> 腕掌关节（腕骨和掌骨之间的关节）
+
+<font color="sky blue">**carpal tunnel syndrome**</font> 腕管综合征（腕部正中神经受到压迫，导致手部疼痛、麻木和无力的一种情况）
+
+<font color="sky blue">**carpal bossing**</font> 腕关节凸起（腕部后部有骨质突起的情况，通常由重复性压力或损伤引起）
+
+<font color="sky blue">**carpal instability**</font> 腕关节不稳定（腕部骨骼不能正确排列，导致疼痛、无力和不稳定的情况）
+
+<font color="sky blue">**carpitis**</font> n. 腕关节炎
+
+<font color="sky blue">**carpal-metacarpal osteoarthritis**</font> 腕-掌骨关节炎（一种影响手腕和拇指根部之间关节的关节炎）       
+
+<font color="sky blue">**carpometacarpal arthritis**</font> 腕掌关节炎（常由劳损或外伤引起）
+
+<font color="sky blue">**carpectomy**</font> n. 腕骨切除术
+
+<font color="sky blue">**carpal tunnel release**</font> 腕管松解术（一种外科手术，包括切断形成腕管顶部的韧带，以减轻对正中神经的压力）
+
+<font color="sky blue">**carpo-metacarpal arthroplasty**</font> 腕-掌骨关节形成术（一种外科手术，包括替换或重建手腕和拇指基部之间的关节）
+

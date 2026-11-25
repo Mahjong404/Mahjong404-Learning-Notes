@@ -1,0 +1,11 @@
+<font color="#f79646">含义：离开；停止</font>
+<font color="#f79646">变体：无</font>
+<font color="#f79646">来源：拉丁单词quiescere（意为to rest或to be at peace，即休息或安宁）</font>
+<font color="#f79646">用途：构成离开；停止相关词汇</font>
+
+quit v. 从（某处）离开；离去；停止
+quittance n. 收据；免除，赦免；报酬，补偿
+quitter n. 有始无终的人；虎头蛇尾的人；半途而废者
+acquit v. 宣判…无罪
+requite v. 报答；酬谢；回报，补偿；报复
+requital n. 报答；偿还；报仇

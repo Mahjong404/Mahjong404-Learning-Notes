@@ -1,0 +1,39 @@
+- <font color="#f79646">含义：酶</font>
+- ‌‌‌<font color="#f79646">变体：无</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词-asis（意为process of或action of，即…的过程或行为。）</font>
+- ‌‌‌<font color="#f79646">用途：构成酶相关词汇（术语 "enzyme "，即“酶”是由德国生理学家Wilhelm Friedrich kühne于1878年首次提出的，后缀"-ase"后来被加上，以表示这些蛋白质的催化性质）</font>
+
+
+---
+
+
+<font color="sky blue">**enzyme**</font> n. 酶（一种蛋白质，作为催化剂，加速体内的化学反应）
+
+<font color="sky blue">**lipase**</font> n. 脂肪酶（一种将脂肪分解成可被人体吸收的小分子的酶）
+
+<font color="sky blue">**amylase**</font> n. 淀粉酶（将碳水化合物分解为更简单的糖类的一种酶）
+
+<font color="sky blue">**protease**</font> n. 蛋白酶（一种将蛋白质分解为较小的肽和氨基酸的酶）
+
+<font color="sky blue">**lactase**</font> n. 乳糖酶（一种将乳糖分解为葡萄糖和半乳糖的酶）
+
+<font color="sky blue">**Phosphatase**</font> n. 磷酸酶，磷酸酯酶（一种从分子中去除磷酸盐基团的酶）
+
+<font color="sky blue">**catalase**</font> n. 接触酵素，过氧化氢酶（一种将过氧化氢分解为水和氧的酶）
+
+<font color="sky blue">**glucosidase**</font> n. 葡萄糖苷酶（一种将复杂的碳水化合物分解为葡萄糖的酶）
+
+<font color="sky blue">**polymerase**</font> n. 聚合酶（催化DNA或RNA等长聚合链的形成的一种酶）
+
+<font color="sky blue">**nuclease**</font> n. 核酸酶（分解DNA和RNA等核酸的一种酶）
+
+<font color="sky blue">**kinase**</font> n. 激酶，致活酶（一种向分子添加磷酸盐基团的酶，通常用于激活或停用这些分子）
+
+<font color="sky blue">**hydrolase**</font> n. 水解酶（通过加水来分解分子的一种酶）
+
+<font color="sky blue">**peptidase**</font> n. 肽酶（一种将肽分解为氨基酸的酶）
+
+<font color="sky blue">**synthase**</font> n. 合酶，合成酶（催化从较简单分子合成复杂分子的一种酶）
+
+<font color="sky blue">**esterase**</font> n. 酯酶（一种将酯分解为酒精和羧酸的酶）
+

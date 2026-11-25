@@ -1,0 +1,51 @@
+- ‌‌‌<font color="#f79646">含义：瘙痒</font>
+- ‌‌‌<font color="#f79646">变体：pruri, prurit</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词prurire（意为to itch，即发痒）</font>
+- ‌‌‌<font color="#f79646">用途：构成瘙痒相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**pruritus**</font> n. 瘙痒症（皮肤瘙痒，这可能是各种皮肤病或系统性疾病的症状）
+
+<font color="sky blue">**pruritic**</font> adj. 痒的；瘙痒症的
+
+<font color="sky blue">**prurient**</font> adj. 特别想挠痒的；好色的
+
+<font color="sky blue">**prurient discharge**</font> 瘙痒性分泌物（来自生殖器的分泌物，伴有瘙痒）
+
+<font color="sky blue">**prurigo**</font> n. 痒疹（一种以强烈瘙痒的丘疹为特征的皮肤病）
+
+<font color="sky blue">**prurigo nodularis**</font> 结节性痒疹（一种慢性皮肤病，会在皮肤上形成坚硬、瘙痒的结节）
+
+<font color="sky blue">**prurigo pigmentosa**</font> 色素性痒疹（一种罕见的皮肤病，会导致皮肤上出现瘙痒、发红和鳞屑的斑块）
+
+<font color="sky blue">**prurigo simplex**</font> 单纯性痒疹（皮肤上出现小而痒的疙瘩）
+
+<font color="sky blue">**prurigo actinic**</font> 光化性痒疹（发生在皮肤暴露部位的一种瘙痒症）
+
+<font color="sky blue">**prurigo scroti**</font> 阴囊痒疹（一种影响阴囊并引起剧烈瘙痒的痒疹）
+
+<font color="sky blue">**prurigo senilis**</font> 老年性痒疹（一种发生在老年人身上的痒疹，以瘙痒性丘疹为特征）
+
+<font color="sky blue">**pruritic folliculitis**</font> 瘙痒性毛囊炎（一种炎症性皮肤病，在毛囊周围引起瘙痒的红疙瘩）
+
+<font color="sky blue">**pruritic eczema**</font> 瘙痒性湿疹（一种湿疹，会引起强烈的瘙痒，并可能导致水疱的产生）
+
+<font color="sky blue">**pruritic dermatoses**</font> 瘙痒性皮肤病（一组引起强烈瘙痒的皮肤病，可由各种因素引起，包括过敏、感染和全身性疾病）
+
+<font color="sky blue">**antipruritic**</font> adj. 止痒的 n. 止痒剂
+
+<font color="sky blue">**aquagenic pruritus**</font> 水源性瘙痒症
+
+<font color="sky blue">**autotoxic pruritus**</font> 自体毒性瘙痒
+
+<font color="sky blue">**bath pruritus**</font> 浴后瘙痒, 浴痒病
+
+<font color="sky blue">**ocular pruritus**</font> 眼部瘙痒
+
+<font color="sky blue">**pruritus vulvae**</font> 外阴瘙痒
+
+<font color="sky blue">**pruritus ani**</font> 肛门瘙痒
+

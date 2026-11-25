@@ -1,0 +1,39 @@
+- ‌‌‌<font color="#f79646">含义：血管内皮</font>
+- ‌‌‌<font color="#f79646">变体：endothelio</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词endon（意为within，即在…内部）和thele（意为nipple或bud，即乳头或蓓蕾）</font>
+- ‌‌‌<font color="#f79646">用途：构成血管内皮相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**endothelioid**</font> adj. 内皮般的；类似内覆组织的
+
+<font color="sky blue">**endothelium**</font> n.（血管和淋巴管的）内皮细胞（排列在血管和淋巴管内表面的薄层细胞）
+
+<font color="sky blue">**endothelial progenitor cell**</font> 内皮祖细胞（一种干细胞，可以分化成内皮细胞并帮助修复受损的血管）
+
+<font color="sky blue">**endothelial microparticle**</font> 内皮微粒子（内皮细胞脱落到血液中的一个小片段，常被用作心血管疾病的生物标志物）
+
+<font color="sky blue">**endothelium-derived relaxing factor**</font> 内皮细胞松弛因子（由内皮细胞产生的一种化合物，有助于放松血管中的平滑肌细胞并改善血流）
+
+<font color="sky blue">**endothelial-specific receptor**</font> 内皮细胞特异性受体（在内皮细胞表面特异性表达的受体，常被用作药物输送或成像的靶点）
+
+<font color="sky blue">**endothelial cell adhesion molecule**</font> 内皮细胞粘附分子（内皮细胞表面的一种分子，有助于介导白细胞的粘附和迁移，经常参与炎症和免疫反应）
+
+<font color="sky blue">**endothelial permeability**</font> 内皮渗透性（物质能够通过内皮并进入周围组织的程度）
+
+<font color="sky blue">**endothelial activation**</font> 内皮细胞激活（内皮细胞被激活并释放炎症分子的过程，常常导致心血管疾病的发生）
+
+<font color="sky blue">**endothelioma**</font> n. 内皮瘤（从血管或淋巴管的内皮细胞中产生的一种罕见的肿瘤）
+
+<font color="sky blue">**angioendothelioma**</font> n. 血管内皮瘤，血管内皮细胞瘤
+
+<font color="sky blue">**endothelial dysfunction**</font> 内皮功能障碍（内皮细胞功能不正常的一种情况，常常导致心血管疾病的发生）
+
+<font color="sky blue">**endothelial dysfunction syndrome**</font> 内皮功能紊乱综合征（与内皮功能紊乱有关的一系列疾病，包括糖尿病、高血压和心力衰竭）
+
+<font color="sky blue">**endothelial injury**</font> 内皮损伤
+
+<font color="sky blue">**endotheliosis**</font> n. 内皮增生
+

@@ -1,0 +1,43 @@
+- ‌‌‌<font color="#f79646">含义：半月板；人体的月牙形软骨</font>
+- ‌‌‌<font color="#f79646">变体：menisco</font>
+- ‌‌‌<font color="#f79646">来源：希腊单词meniskos（意为crescent，即新月形或月牙形）</font>
+- ‌‌‌<font color="#f79646">用途：构成半月板（或人体的其它月牙形软骨）相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**meniscus**</font> n. [复数为menisci] 半月板
+
+<font color="sky blue">**meniscal**</font> adj. 半月板的  
+
+<font color="sky blue">**meniscotibial ligament**</font> 半月板胫骨韧带（将半月板连接到膝关节的胫骨上的韧带）
+
+<font color="sky blue">**meniscofemoral ligament**</font> 半月板股骨韧带（将半月板连接到膝关节的股骨上的韧带）
+
+<font color="sky blue">**meniscography**</font> n. 半月板造影
+
+<font color="sky blue">**meniscopathy**</font> n. 半月板病（泛指半月板的任何病变）
+
+<font color="sky blue">**meniscitis**</font> n. 半月板炎
+
+<font color="sky blue">**meniscoid lesion**</font> 半月板病变（半月板异常或损伤的一种类型，可引起疼痛和关节功能障碍） 
+
+<font color="sky blue">**meniscus sign**</font> 半月板征（在膝关节X线片上看到的一种诊断性征象，表明由于损伤或退变导致半月板移位）
+
+<font color="sky blue">**meniscus degeneration**</font> 半月板变性（膝关节内的半月板由于年龄、过度使用或受伤而变得磨损或损坏的一种情况）
+
+<font color="sky blue">**meniscocapsular separation**</font> 半月板囊分离（膝关节损伤的一种类型，半月板从关节囊中撕裂出来）  
+
+<font color="sky blue">**meniscocapsular tear**</font> 半月板囊撕裂（即半月板的撕裂延伸到膝盖的关节囊中）
+
+<font color="sky blue">**meniscus tear**</font> 半月板撕裂  
+
+<font color="sky blue">**meniscus extrusion**</font> 半月板挤出（半月板移位或被推离其正常位置） 
+
+<font color="sky blue">**meniscus transplantation**</font> 半月板移植（用供体半月板替换受损或切除的半月板的一种手术） 
+
+<font color="sky blue">**meniscus repair**</font> 半月板修复
+
+<font color="sky blue">**meniscectomy**</font> n. 半月板切除术
+

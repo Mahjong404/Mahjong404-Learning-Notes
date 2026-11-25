@@ -1,0 +1,27 @@
+- ‌‌‌<font color="#f79646">含义：脑室</font>
+- ‌‌‌<font color="#f79646">变体：ventro, ventri</font>
+- ‌‌‌<font color="#f79646">来源：拉丁单词venter（意为belly或abdomen，即腹部或肚子）</font>
+- ‌‌‌<font color="#f79646">用途：构成脑室相关词汇</font>
+
+
+---
+
+
+<font color="sky blue">**ventricle**</font> n. 脑室 
+
+<font color="sky blue">**ventricular**</font> adj. 脑室的  
+
+<font color="sky blue">**ventricular fold**</font> 室襞
+
+<font color="sky blue">**ventromedial hypothalamus**</font> 腹内侧下丘脑（是下丘脑内侧靠腹侧面的核团）
+
+<font color="sky blue">**ventriculography**</font> n. 脑室造影
+
+<font color="sky blue">**ventriculitis**</font> n. 脑室炎
+
+<font color="sky blue">**ventriculomegaly**</font> n. 脑室肿大（脑室的异常增大，通常由产前超声检查发现，与各种神经系统疾病有关）
+
+<font color="sky blue">**ventriculoperitoneal shunt**</font> 脑室腹腔分流术（将一根管子插入大脑的脑室，以排出多余的脑脊液，并将其引向腹腔的一种外科手术）
+
+<font color="sky blue">**ventriculostomy**</font> n. 脑室造口术（在颅骨上开一个小孔，使脑脊液从脑室排出的一种手术）
+
